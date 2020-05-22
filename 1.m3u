@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.ativanautica.com.br/en/_imagens/layout/logo-ativa-menu.png"",CANAL ATIVA[COLOR orange](ON)[/COLOR]
-https://edge1o.live.opencaster.com/caster/zrogxfyvDFeC.m3u8
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2Zi1Cv9"",Tv globo sp[COLOR orange](ON)[/COLOR]
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosphd_3a69aa1b_2b331325e5ca360b577ce51d0108af90c9b12bba/playlist.m3u8
