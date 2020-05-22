@@ -502,9 +502,6 @@ https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/chunklist_w1076097726.m3
 #EXTINF:-1 tvg-logo=""",CONEC TV[COLOR orange](ON)[/COLOR]
 http://stream02.msolutionbrasil.com.br:1935/conectv/live/chunklist_w1054833798.m3u8 
 
-#EXTINF:-1 tvg-logo=""",Tv MAR (MACEIO)[COLOR orange](ON)[/COLOR]
-https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w452161707.m3u8
-
 #EXTINF:-1 tvg-logo=""",Tv MACEIO[COLOR orange](ON)[/COLOR]
 http://173.236.10.10:1935/toptv/toptv/chunklist_w2044164472.m3u8
 
