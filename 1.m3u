@@ -1,836 +1,2134 @@
 #EXTM3U
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Zi1Cv9"",Tv globo sp[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosphd_3a69aa1b_2b331325e5ca360b577ce51d0108af90c9b12bba/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3bGWt2l"",CANAL FUTURA[COLOR orange](ON)[/COLOR]
-https://live.video.globo.com/h/0411589661817672674056815895790199051525591stf9QT5UOUMkByhapuxSuA/k/html5/a/A/d/s/hls-futura24ha/hls-futura24ha_2126/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/36mCqpb"",GLOBO NEWS (ATUALIZAR)[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/globonews_dc685e2c_fc102f1804b3c39b1ba0aadb14633dcd06ce0775/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2X6nXJK"",CNN BRASIL(ATUALIZAR)[COLOR orange](ON)[/COLOR]
-https://youtu.be/EeJT75FS-sk
-
-#EXTINF:-1 tvg-logo="https://bit.ly/36ftXDV"",BAND SPORTS(ATUALIZAR)[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/bandsports_f53eac2e_c4bca58b7e99df991d36ba6070d70435e3801b75/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2WJiyJG"",PREMIERE(ATUALIZAR)[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:88.198.163.51/premiereclubes_3f1522d0_e89ebe5738afefa44fdd5f3afb8e5d8c27107cef/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2z1eITb"",FOX SPORTS 1 [COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsportshd_98fbc42f_1f24ffad7ce5bd49004725746cb5a7bc2a0651d7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3g1eOKS"",SPORTV [COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_1216d8089710ac6d3a7715a70ddcb95f335dbf45/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3cVbUFu"",SPORTV 2[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv_91dfde1d_8607a6bf73a457b76a4d8bab836e9d9ae9652524/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2yeioAt"",SPORTV 3[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv2_22ab0e43_233f2b7cf4fbc063a9f88e1671f25aeacdb779a9/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2ZehGy2"",SPORTV4[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sportv3_e1a864f0_41f830313099d915a008c8fa00135469a400ccf4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2TfMJ9a"",ANIMAL PLANET[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/animalplanet_e114c448_ca2b4740285ef41534b89074f142e453a7e371f1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/36dEShj"",investigaçao diskovey[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/investigacaodiscovery_4d134bc0_2c14f3028320a8944880c30fc1f103223be8fa21/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2ThTo2l"",DISKOVERY WORD[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/animalplanet_e114c448_ca2b4740285ef41534b89074f142e453a7e371f1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Zj8Cbg"",DISKOVEY TURBO[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/discoveryturbo_ca3512f4_ab4824f4eb5b822646c7a4d8359690a583a887eb/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Td35PN"",NATIONAL GEOGRAPH [COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/nationalgeographic_2e01e174_4a458822e30c6cb62e8acccf9606a992ab2984fd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3bE9kSV"",TELECINE ACITION[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecineactionhd_be2793cd_00a5c8a1055c7c8f3705c8211ce031401588b93c/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2ybhwfM"",TELECINE CULT[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinecult_8d255e1e_3a74bc39888bef9bf60524e9327a8bb895b48611/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vivo.tl/3bGIDNG"",TELECINE FUN[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinecult_8d255e1e_3a74bc39888bef9bf60524e9327a8bb895b48611/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3g5K3EW"",TELECINE PIPOCA[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_9a6eb52327844dbf45c77a6e294db52e2ccb7abb/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2X8JSQf"",TELECINE PREMIUM[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_73c96a9b5938c24877f260887078138d20fd501a/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/36bN7KV"",HBO[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_2beebf392a6c18a0c56573ec8f299f32db55e4b6/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3bKKz7Q"",HBO 2[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo2720p_05a53e36_7ba23a29daab3febc8b7f4b14ec5189b3b137378/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2WI82lJ"",HBO FAMILY[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbofamily_536fb693_59394fa4d6a496cdba97d55bd7d13a09f55a981d/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3dZqRXu"",HBO PLUS[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/hboplus1080p_39dfc9ff_83557e442cd39ba2d02e57eb8f75156646e237bb/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Xdi9xQ"",HBO SIGNATURE[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/hbosignature720p_fa1a6512_e820386b767ba7029227cf681a656900a12f449e/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2ZbA3DY"",HBO MUNDI[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/max_9f682df2_fa800919cb67f2e448673d0a4fe556adfa8f215f/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3cVdQhe"",MAX HBO XTREME[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/maxprime_9c676e00_f4369204af42d9dd1f6d125e96eed646ec891dc6/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/369jJoy"",CANAL A&E[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:78.46.240.155/aemundo_c28aca23_05bde51cba555391147e74ff4b08e0e7f79f37d2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2z9ytYA"",AXN[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/axn_cb7a1d77_ad636fa4354b9c0f0b7be7723da0baafdfc34756/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2ZfU9Nl"",CANAL SONY[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sony_06349be7_85f473964a85700fc1236c85e504d374975b8b66/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2XffNPk"",CINEMAX[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cinemax720p_49117359_9eb8abc458d02d2f9fb595b4561ca1b049d4ffed/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Tlhqd3"",COMEDY CENTRAL[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/comedycentral_17037754_523c23a0c09af184f6b8f7f5387b330613381135/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2yhHCOo"",FOX[COLOR orange](ON)[/COLOR]
-https://live.multicanais.com/mylive/foxsd/video.m3u8?md5=Q6lEnGo7H0c-oUnLN_zY-Q&expires=1589777612
-
-#EXTINF:-1 tvg-logo="https://bit.ly/36bMmRY"",FOX PREMIUM 1[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:78.46.240.155/foxpremium1_1bdf1a2f_b9100c0e4c4e6264db28e76b945aa78fa13fd337/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3g3Ah68"",FX[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fx_667be543_c605ecad305e34e5ae31d6f357fb9d6a4bf7239b/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Zh3zrK"",MEGA PIX[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/megapix_a6f16ab4_af82816447d40dd2959504bd8fc25681efd47aa1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3bN4Aum"",SPACE[COLOR orange](ON)[/COLOR]
-https://live.multicanais.com/mylive/spacesd/video.m3u8?md5=UFQ0xON4mPWlaNBbjV_XaA&expires=1589777623
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2LID8Di"",SIFY[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/syfy_097ccd4f_3c02e30bbc02a701459a3750baac9b56584876cf/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2zLue5A"",TNT[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tnt_9109c85a_f276b0cb2fb6420fb48cb35fdc219c06a95aae7c/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/36dNLrb"",WANNER[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/warnerchannel_0a57cb53_6a5bdeae81add2c806991d6de69e06d451e3b099/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2WMAaV3"",Tv nordestina[COLOR orange](ON)[/COLOR]
-https://youtu.be/r1_7dUgla5M
-
-#EXTINF:-1 tvg-logo="https://bit.ly/36bVbeF"",CANAL VIVA[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/viva_5d00f2c6_cfd22c8f12b4b540ed81a6d9cd0ceb919edee82d/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2yjd52M"",CANAL E[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:78.47.27.206/eentertainment_fe2fb474_96cc17e66d58dc1723bf41eca34557eb54f0e907/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3cEUgWy"",Food Network[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:78.46.240.155/foodnetwork_ceab25ab_5371f517c3c6b3fde0252e839bac06258c513e33/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2ZnqNwm"",GNT[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/gnt_c439c60b_f6c0647a42ebf3ae983d15c725b4293d0b810109/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2z28dzs"",MTV (ATUALIZAR)[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/mtvbrasil_7719a1c7_8456dadafb7048a956d7040fe726eb09fe355b4e/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2XniOx5"",MULTSHOW (ATUALIZAR)[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_86f674a4a464ff1912a96131e11ea4851b81a31f/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2z0j4de"",BOOMERANG[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:78.46.240.155/boomerang_2659fc51_e4f2d6565079f762733d78e6f110971305f6b88c/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3e4hJRv"",CARTOON NETWORK[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cartoonnetwork_511a418e_23d036f3ae2a40d811b9a98694c82b01df90075f/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3gbLlya"",DISKOVERY KIDS[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverykids_80e28a51_58d59c860bd7ea385a8f723b47f72b2bf2049c5f/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2WLhVPL"",DISNEY CHANEL[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/disneychannel_a9334987_be228960ddf10b2decf23a27365d52d320003905/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2ZhVuDs"",DISNEY JUNIOR [COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/disneyjunior_572e2073_4d29f5bff9b095ad8fb27bc39d1f1bca4ebc07d9/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Tg8eX6"",GLOOB()[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:78.47.27.206/gloob_04f1241e_14a5ddbb00150f96e347e20c2ac848f638d8400a/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2LFjzfk"",NICK JUNIOR(ATUALIZAR)[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:78.46.240.155/nickjr_54ceb912_86188966e49290f72971430c77b2fc3cb016de33/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2XafZyZ"",TOONCAST(ATUALIZAR)[COLOR orange](ON)[/COLOR]
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tooncast_8effee40_cb66d5427ef108b148e6df12233a45fa6a1c3d11/playlist.m3u8
-
-
--------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://bit.ly/3cJ4dT2"",TV NATAL [COLOR orange](ON)[/COLOR]
-https://stmv6.srvstm.com/antonioflavio9466/antonioflavio9466/chunklist_w8085638.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3e3isT0"",TV NA ILHA [COLOR orange](ON)[/COLOR]
-https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/chunklist_w867131884.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/36drQ3u"",TV CARIOCA NET [COLOR orange](ON)[/COLOR]
-https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w170184447.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3bKBHyT"",TV J.SID [COLOR orange](ON)[/COLOR]
-https://stmv6.srvstm.com/tvjsid/tvjsid/chunklist_w1205663285.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2LIuTaE"",TV JAPI [COLOR orange](ON)[/COLOR]
-https://5d2c98775bafe.streamlock.net/8220/8220/chunklist_w1429501320.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3g1EsiJ"",VIVA WEB TV [COLOR orange](ON)[/COLOR]
-https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w1098189479.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2WIIAMP"",TV RWCG [COLOR orange](ON)[/COLOR]
-https://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w445665186.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3ec7qLh"",TV PONTA SERRA [COLOR orange](ON)[/COLOR]
-http://stmv6.srvstm.com/tvpontadaserra/tvpontadaserra/chunklist_w1670443377.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3bLfiBE"",TV LIBERDADE [COLOR orange](ON)[/COLOR]
-https://01.paineldevideo.com/rtguarany/rtguarany/playlist-480p.m3u8?wowzasessionid=1304047876
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2zbu9rQ"",TV AGUA BOA [COLOR orange](ON)[/COLOR]
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w607231800.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Zkf166"",TV NOVA ONDA [COLOR orange](ON)[/COLOR]
-https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w1502518594.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3g0ZIVL"",WEB TV PROGRESSO [COLOR orange](ON)[/COLOR]
-https://novo.bitstreaming.info/oprogressotvstation/oprogressotvstation/chunklist_w1277868240.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3cJ6dL2"",LATINA SAT [COLOR orange](ON)[/COLOR]
-https://livefocamundo.com:8081/8470/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Zmi9OP"",TV DESTAK [COLOR orange](ON)[/COLOR]
-https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w880955268.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2LEptx5"",TV LUCELIA [COLOR orange](ON)[/COLOR]
-https://59f2354c05961.streamlock.net:1443/tvcapital/_definst_/tvcapital/chunklist_w1858443281.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2zbu9rQ"",TV WTJ MINAS [COLOR orange](ON)[/COLOR]
-https://livefocamundo.com:8081/8200/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3g31tBL"",TV RETRÔ CARTOON [COLOR orange](ON)[/COLOR]
-https://stmv4.srvstm.com/actv/actv/chunklist_w460471403.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3g3nhgO"",NBWTV [COLOR orange](ON)[/COLOR]
-https://5d82644094cc0.streamlock.net/8026/8026/chunklist_w1202544831.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2zVX7Mb"",CINE TRIANON TV [COLOR orange](ON)[/COLOR]
-https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1784742713.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2zSK6D4"",CTV [COLOR orange](ON)[/COLOR]
-https://5d2c98775bafe.streamlock.net/cariritv/cariritv/chunklist_w1189680689.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3ga92qH"",TV CAMOCIM [COLOR orange](ON)[/COLOR]
-https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w1196305983.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/36evavk"",T VIDEOS NEWS [COLOR orange](ON)[/COLOR]
-https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w216708355.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2LFfzLE"",ECO TV ABC [COLOR orange](ON)[/COLOR]
-http://meupaineltv.top:1935/8002/8002/chunklist_w293462321.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2ZjLwBy"",TV SERRA VERDE [COLOR orange](ON)[/COLOR]
-https://stmv6.srvstm.com/leandro9908/leandro9908/chunklist_w648463639.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3cGElXM"",ALPHA CHANNEL [COLOR orange](ON)[/COLOR]
-https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/chunklist_w1251153222.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2WHYE1y"",REDE WEB TV [COLOR orange](ON)[/COLOR]
-https://srv2.zcast.com.br/portelink/portelink/chunklist_w360333066.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3cOqdM4"",REDE METROPOLITANA [COLOR orange](ON)[/COLOR]
-https://cdn.cdnseguro.com/metropolitana2/smil:metropolitana2.smil/chunklist_w1364938562_b3200000_slen.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2LDa7ci"",VIA MORENA [COLOR orange](ON)[/COLOR]
-https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/5eb43839c7979c47dd560bd8/chunklist_w1450468039.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/36b0BGU"",TV LIBERDADE ONLINE [COLOR orange](ON)[/COLOR]
-https://5c483b9d1019c.streamlock.net/8238/8238/chunklist_w1674495097.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3g3Cxu6"",TV METROPOLE [COLOR orange](ON)[/COLOR]
-https://serv1.videovox.pw/eduardo2183/eduardo2183/chunklist_w1020401134.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2ZhFgdj"",M20 TV [COLOR orange](ON)[/COLOR]
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3bIFdd1"",MUSIC TOP [COLOR orange](ON)[/COLOR]
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1487953220_b2028000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3ecxRR1"",TV CINEC [COLOR orange](ON)[/COLOR]
-https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Xaf8i3"",CBTV NOW [COLOR orange](ON)[/COLOR]
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-_9CQNB5l3Is/XONyHT0tl9I/AAAAAAAAA4k/aQE4nt7goHkyG0jVMq7Ul-r2uXfv6D3egCLcBGAs/s320/Screenshot_2019-05-20-23-47-55.png"",TV TSPB [COLOR orange](ON)[/COLOR]
-https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2XhJRd8"",TV ESCOLA [COLOR orange](ON)[/COLOR]
-https://video-rvd-df-gw-1-2.rnp.br/live/ocp(t(FhBxj2gcZUA)r(TOqkzw)a(imMcow)p(d(lCo)k(oxE)m(U368T7moFl1wY3xnd1m9-Q)n(a(4JRFUg)s(APU)'a(c8N_CQ)s(Lqo)))s(s(z3Q)b(phOXLFT_yVz5ZenNoGBokHMtmjoRSt597cCdbilB4a3DVK9uR8foW0duCCz61nFAPkl_o4aGc0epItxzJw)'s(Jqs)b(7lMrJ1Hp0_J6cb0pz3bA7f70q0DUYYnszjGIX7Llzi8SGNjJXSHtOLErvC4NfzQNKJx2qBhCp2mR1e2J9kuk0sRm_cDAoJ1SrtxRIV_n)'s(ed8)b(rhOqq_CQ))m(0))/tvescola_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3g2Ix6n"",RCTV [COLOR orange](ON)[/COLOR]
-https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/chunklist_w1501629398.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3cPXy9y"",TV WEB PARANA[COLOR orange](ON)[/COLOR]
-https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3g5YdG0"",MUNDO TV [COLOR orange](ON)[/COLOR]
-https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w740622842.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2ZixwrB"",TV DO POVO [COLOR orange](ON)[/COLOR]
-https://59f2354c05961.streamlock.net:1443/tvdopovo1/_definst_/tvdopovo1/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2AJsCK1"",TV CIDADE OESTE [COLOR orange](ON)[/COLOR]
-http://209.222.17.241:5080/LiveApp/streams/083687260640701234040186.m3u8?token=null
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2X9avEY"",TV PLATEIA [COLOR orange](ON)[/COLOR]
-https://srv-rs1.sisdera.com/hls/1/tvap/1_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3g4I4AB"",MASTER TV [COLOR orange](ON)[/COLOR]
-https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1603181287.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2LJKV41"",TV MAIS[COLOR orange](ON)[/COLOR]
-https://596639ebdd89b.streamlock.net/8040/8040/chunklist_w24402513.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2zPma3B"", TV ONIX [COLOR orange](ON)[/COLOR]
-https://cdn-candiano-1114.ciclano.io:1443/candiano-1114/candiano-1114/chunklist_w542262934.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2XcYe2g"",CANAL 8 [COLOR orange](ON)[/COLOR]
-https://5c483b9d1019c.streamlock.net/8126/8126/chunklist_w602148872.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3g4L1Bb"",TV UFSC [COLOR orange](ON)[/COLOR]
-http://150.162.188.10:8080/hls/1_hi.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2ThJaz6"",TV BNO NATIONAL GEOGRAPH [COLOR orange](ON)[/COLOR]
-https://59f2354c05961.streamlock.net:1443/bonner/_definst_/bonner/chunklist_w558740421.m3u8
-
-#EXTINF:-1 tvg-logo=""",REDE RCT [COLOR orange](ON)[/COLOR]
-http://173.236.10.10:1935/rederct/rederct/chunklist_w325271742.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2AJOepB"",TV A CARA DA BAHIA [COLOR orange](ON)[/COLOR]
-http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/chunklist_w709361135.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3e1UaZu"",TV BELTRAO [COLOR orange](ON)[/COLOR]
-https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/chunklist_w373396698.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3bIFdd1"",MUSIC TOP [COLOR orange](ON)[/COLOR]
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3eajuwz"",TV ISTV [COLOR orange](ON)[/COLOR]
-https://srv1.zcast.com.br/istv/istv/chunklist_w1113110621.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3dYPcwt"",TV MANCHETE [COLOR orange](ON)[/COLOR]
-https://srv4.zcast.com.br/tvmanchate/tvmanchate/chunklist_w478509016.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/369aO6I"",TV UNIAO [COLOR orange](ON)[/COLOR]
-https://5ea08e6dcbfc8.streamlock.net/tvuniao/_definst_/tvuniao/chunklist_w1107944239.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2WK2gjz"",FOX SPORTS 1 [COLOR orange](ON)[/COLOR]
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1431167_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2z7LWQw"",Tv all sports[COLOR orange](ON)[/COLOR]
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w2038805278.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3cENwIe" group-title="",ESPN 1[COLOR orange](ON)[/COLOR]
-https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3cKvg0a" group-title="",ESPN 2[COLOR orange](ON)[/COLOR]
-https://playplusespn-lh.akamaihd.net:443/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2z0cF1G" group-title="",ESPN BRASIL 1[COLOR orange](ON)[/COLOR]
-https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo=" " group-title="https://bit.ly/2z0cF1G",ESPN BRASIL 2[COLOR orange](ON)[/COLOR]
-https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_720_av-p.m3u8?hd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3bNkchj" group-title="",TV REAL MADRI HD[COLOR orange](ON)[/COLOR]
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2AyauT9"",Record news[COLOR orange](ON)[/COLOR]
-https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2WIXi6M"",CNT BAHIA [COLOR orange](ON)[/COLOR]
-https://d1umcvjim34t3b.cloudfront.net/out/v1/33e09796f6df4d138048a84a2629adcf/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2WIXi6M"",londrina, bh, brasilia cnt [COLOR orange](ON)[/COLOR]
-https://d27n9vd7t86mc7.cloudfront.net/out/v1/9b3f2905c9c3423991dc4ffbf8cd2e12/index_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2WIXi6M"",CNT SP[COLOR orange](ON)[/COLOR]
-https://d27n9vd7t86mc7.cloudfront.net/out/v1/9b3f2905c9c3423991dc4ffbf8cd2e12/index_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2WIXi6M"",CNT RIO [COLOR orange](ON)[/COLOR]
-https://d1umcvjim34t3b.cloudfront.net/out/v1/33e09796f6df4d138048a84a2629adcf/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2WIXi6M"",CNT PORTO ALEGRE [COLOR orange](ON)[/COLOR]
-https://d1umcvjim34t3b.cloudfront.net/out/v1/33e09796f6df4d138048a84a2629adcf/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2WIXi6M"",CNT CURITIBA [COLOR orange](ON)[/COLOR]
-https://d338xh8x3vxa9e.cloudfront.net/out/v1/7d3c93fd8b74415d988bafbb9d515db3/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2LBdZL0"",Tv DIARIO FORTALEZA [COLOR orange](ON)[/COLOR]
-https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZT55FS7qTLxM6D9LCRXf5Y8)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_geostore=1
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3dWVSev" group-title="",RECORD SP [COLOR orange](ON)[/COLOR]
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3dWVSev" group-title="",RECORD SP HD[COLOR orange](ON)[/COLOR]
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3dWVSev" group-title="",RECORD RJ [COLOR orange](ON)[/COLOR]
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3dWVSev" group-title="",RECORD RS HD [COLOR orange](ON)[/COLOR]
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3dWVSev"",Record tv Goias[COLOR orange](ON)[/COLOR]
-https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-b.m3u8?
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3dWVSev"",Record tv bahia[COLOR orange](ON)[/COLOR]
-https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8?
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3dWVSev""group-title="",TV RECORD DF[COLOR orange](ON)[/COLOR]
-http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3dWVSev"" group-title="",TV RECORD DF HD[COLOR orange](ON)[/COLOR]
-http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2ZgmS4I" group-title="",SBT Piaui [COLOR orange](ON)[/COLOR]
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2ZgmS4I" group-title="",SBT PErnambuco[COLOR orange](ON)[/COLOR]
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2ZgmS4I"" group-title="",SBT MA [COLOR orange](ON)[/COLOR]
-http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2ZgmS4I"" group-title="",SBT PE INTERIOR[COLOR orange](ON)[/COLOR]
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3cKWkwn"" group-title="",Band[COLOR orange](ON)[/COLOR]
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w257753192.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2ZgdptX"" group-title="",REDE TV SP [COLOR orange](ON)[/COLOR]
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2ZgdptX"" group-title="",Rede tv [COLOR orange](ON)[/COLOR]
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2ZgdptX"" group-title="",Tv Pampa rede tv[COLOR orange](ON)[/COLOR]
-https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8?wowzasessionid=1845324407
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3cO0hQQ"" group-title="",Tv a critica rede tv[COLOR orange](ON)[/COLOR]
-https://youtu.be/xl_kEcRngtU
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3e2pTth"" group-title="",Tv GAZETA SP [COLOR orange](ON)[/COLOR]
-https://vlw22jqafe.singularcdn.net.br/live/TVGAZETA/playlist-480p.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Zdztpf"" group-title="",Tv CULTURA HD [COLOR orange](ON)[/COLOR]
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w953508904.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Tv NOVA NORDESTE[COLOR orange](ON)[/COLOR]
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Zdztpf" group-title="",TV CULTURA GO[COLOR orange](ON)[/COLOR]
-http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Zdztpf" group-title="",TV CULTURA PA[COLOR orange](ON)[/COLOR]
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Zdztpf" group-title="",TV CULTURA PR[COLOR orange](ON)[/COLOR]
-http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3g6y5uE"",Tv BRASIL[COLOR orange](ON)[/COLOR]
-https://5d2c98775bafe.streamlock.net/tvado/tvado/chunklist_w1867401811.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3g6y5uE" group-title="",TVE RS[COLOR orange](ON)[/COLOR]
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3cQz5ks" group-title="",REDE BRASIL DE[COLOR orange](ON)[/COLOR]
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3cQz5ks"",REDE BRASIL[COLOR orange](ON)[/COLOR]
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1061758015.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3cQz5ks"",REDE BRASIL[COLOR orange](ON)[/COLOR]
-https://player.logicahost.com.br/player.php?player=2
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2XbRdyv"",REDE FAMILIA[COLOR orange](ON)[/COLOR]
-https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_w1915036877_b1540000.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",TERRA VIVA[COLOR orange](ON)[/COLOR]
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-logo=" " group-title="",TV CAMARA[COLOR orange](ON)[/COLOR]
-https://stream3.camara.gov.br/tv1/manifest.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-logo=""",Tv SOL WEB[COLOR orange](ON)[/COLOR]
-http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/chunklist_w1521577129.m3u8
-
-#EXTINF:-1 tvg-logo=""",Tv BAH[COLOR orange](ON)[/COLOR]
-https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/chunklist_b1628000.m3u8
-
-#EXTINF:-1 tvg-logo=""",Tv ZOOM[COLOR orange](ON)[/COLOR]
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/index_150_av-p.m3u8?sd=6&rebase=on
-
-#EXTINF:-1 tvg-logo=""",Tv 40 GRAUS[COLOR orange](ON)[/COLOR]
-https://5d23bdca513db.streamlock.net/40graustv/40graustv/chunklist_w1679581136.m3u8
-
-#EXTINF:-1 tvg-logo=""",Tv LUAU[COLOR orange](ON)[/COLOR]
-https://hls.brasilstream.com.br/live/luautv/luautv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=""",TOP  TV[COLOR orange](ON)[/COLOR]
-https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w654514193.m3u8
-
-#EXTINF:-1 tvg-logo=""",Tv INTERATIVA[COLOR orange](ON)[/COLOR]
-https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/chunklist_w1076097726.m3u8
-
-#EXTINF:-1 tvg-logo=""",CONEC TV[COLOR orange](ON)[/COLOR]
-http://stream02.msolutionbrasil.com.br:1935/conectv/live/chunklist_w1054833798.m3u8 
-
-#EXTINF:-1 tvg-logo=""",Tv MACEIO[COLOR orange](ON)[/COLOR]
-http://173.236.10.10:1935/toptv/toptv/chunklist_w2044164472.m3u8
-
-#EXTINF:-1 tvg-logo=""",Tv COM (MACEIO)[COLOR orange](ON)[/COLOR]
-https://5a7d54e35f9d2.streamlock.net/z883-live/stream/chunklist_w1366973689.m3u8
-
-#EXTINF:-1 tvg-logo=""",Tv SOL[COLOR orange](ON)[/COLOR]
-http://streaming03.zas.media:1935/tvsol/tvsol/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=""",Tv TRANSAMERICA[COLOR orange](ON)[/COLOR]
-http://582b8d3a8267b.streamlock.net/ponto2/transamerica2/chunklist_w1811377354.m3u8
-
-#EXTINF:-1 tvg-logo=""",Tv MAXX[COLOR orange](ON)[/COLOR]
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w296292409.m3u8
-
-#EXTINF:-1 tvg-logo=""",Tv I[COLOR orange](ON)[/COLOR]
-http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/chunklist_w1142873661.m3u8
-
-#EXTINF:-1 tvg-logo=""",Tv COM BRASIL[COLOR orange](ON)[/COLOR]
-https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w1629104183.m3u8
-
-#EXTINF:-1 tvg-logo=""",Tv DIARIO DO SERTAO[COLOR orange](ON)[/COLOR]
-http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w746264156.m3u8
-
-#EXTINF:-1 tvg-logo=""",Tv CLASSIC[COLOR orange](ON)[/COLOR]
-http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=""",Tv RETRO[COLOR orange](ON)[/COLOR]
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2TnFAn5"",Tv DIGITAL BIRITI[COLOR orange](ON)[/COLOR]
-http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1617795437.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2WITp1C"",Tv METROPOLE[COLOR orange](ON)[/COLOR]
-http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1200386896.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3cHzWDY"",Tv PADRE CICERO[COLOR orange](ON)[/COLOR]
-https://59f2354c05961.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero.smil/chunklist_w874487161_b1300000.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Tlx9Jc"",Tv ABERTA COMUNITARIA DE SP[COLOR orange](ON)[/COLOR]
-http://v8.ciclano.io:1935/canalpaulo/canalpaulo/chunklist_w184608405.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2WLgctC" group-title="",SESC TV[COLOR orange](ON)[/COLOR]
-http://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8?PEDROJUNIORTUTORIAIS
-
-
----------------------RELIGIOSO-----------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://bit.ly/2LIOhEg"",rede minas[COLOR orange](ON)[/COLOR]
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b1875968.m3u8?sts=st=1589581175~exp=1589587775~acl=/*~hmac=62466ea40dc43df0b3531739670a88f5553d65c852ace8d389671bbe99ad8f95
-
-#EXTINF:-1 tvg-logo="https://bit.ly/36ihgrZ" group-title="",TV CANÇAO NOVA HD [COLOR orange](ON)[/COLOR]
-http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3e4uf3s" group-title="",TV BOA VONTADE[COLOR orange](ON)[/COLOR]
-http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3bKObqp" group-title="",TV NOVO TEMPO RS [COLOR orange](ON)[/COLOR]
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Tojxgd" group-title="",TV MUNDIAL[COLOR orange](ON)[/COLOR]
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2Znqd1N" group-title="",REDE SUPER[COLOR orange](ON)[/COLOR]
-http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3e5m6LN" group-title="",GOSPEL MOVIES[COLOR orange](ON)[/COLOR]
-http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3cNTs1x" group-title="",GOSPEL MUSIC[COLOR orange](ON)[/COLOR]
-http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3g6BcCE" group-title="",TV IURD[COLOR orange](ON)[/COLOR]
-https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-
------------CANAIS INTERNACIONAIS--------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2zU8zI9"",CALIFORNIA MUSIC [COLOR orange](ON)[/COLOR]
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3cOK2Tu"",MELODY CHANNEL TV [COLOR orange](ON)[/COLOR]
-https://5b464b69d264e.streamlock.net/live/smil:MelodyChannel.smil/chunklist_w1307421684_b1048000_slES.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3e4ZL1b"",GARAGE TV [COLOR orange](ON)[/COLOR]
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w899230772_b1296000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/2TkZf7e"",RU TV [COLOR orange](ON)[/COLOR]
-https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://bit.ly/3cGIhI5"",TOP LATINO TV [COLOR orange](ON)[/COLOR]
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
-
-#EXTINF:-1 tvg-logo=""",Tv RAI MOVIE HD[COLOR orange](ON)[/COLOR]
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?
-
-#EXTINF:-1 tvg-logo=""",Tv REDBULL[COLOR orange](ON)[/COLOR]
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",TELEMAX CANAL 6 ARGENTINA[COLOR orange](ON)[/COLOR]
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
-
-
-#EXTINF:-1 tvg-logo=" " group-title="",TELESAFOR[COLOR orange](ON)[/COLOR]
-http://video.telesafor.com/hls/video_low.m3u8  
-
-#EXTINF:-1 tvg-logo=" " group-title="",TELEVALENCIA[COLOR orange](ON)[/COLOR]
-http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="", tv galicia america[COLOR orange](ON)[/COLOR]
-http://america-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",tv galicia europa[COLOR orange](ON)[/COLOR]
-http://europa-crtvg.flumotion.com/playlist.m3u8 
-
-#EXTINF:-1 tvg-logo=" " group-title="",canal dw [COLOR orange](ON)[/COLOR]
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on 
-
-#EXTINF:-1 tvg-logo=" " group-title="",spain calle 13[COLOR orange](ON)[/COLOR]
-http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo=" " group-title="", emporda tv[COLOR orange](ON)[/COLOR]
-http://ventdelnord.tv:8080/escala/directe.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",telemax[COLOR orange](ON)[/COLOR]
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8? 
-
-#EXTINF:-1 tvg-logo=" " group-title="",la otra[COLOR orange](ON)[/COLOR]
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",wow tv[COLOR orange](ON)[/COLOR]
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo=" " group-title="",TV E 24H[COLOR orange](ON)[/COLOR]
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",cloudtrend service [COLOR orange](ON)[/COLOR]
-https://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",hd fashion[COLOR orange](ON)[/COLOR]
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
-
-#EXTINF:-1 tvg-logo=" " group-title="",extrema tv[COLOR orange](ON)[/COLOR]
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",7tv murcia [COLOR orange](ON)[/COLOR]
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",canal 13[COLOR orange](ON)[/COLOR]
-http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title=""alcarria tv[COLOR orange](ON)[/COLOR]
-http://217.182.77.27/live/alcarriatv-livestream.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",la supertv[COLOR orange](ON)[/COLOR]
-http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",music top[COLOR orange](ON)[/COLOR]
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",one music[COLOR orange](ON)[/COLOR]
-http://rtmp.one.by:1200
-
-#EXTINF:-1 tvg-logo=" " group-title="",lancelot tv[COLOR orange](ON)[/COLOR]
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",etb sat[COLOR orange](ON)[/COLOR]
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",cgtv[COLOR orange](ON)[/COLOR]
-http://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",canal 4 tenerife[COLOR orange](ON)[/COLOR]
-https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",onda cadiz[COLOR orange](ON)[/COLOR]
-http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",for mix[COLOR orange](ON)[/COLOR]
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",rtvce[COLOR orange](ON)[/COLOR]
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",lebrija tv[COLOR orange](ON)[/COLOR]
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",TV CHILE[COLOR orange](ON)[/COLOR]
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w1602984822.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",TEN CANAL 10[COLOR orange](ON)[/COLOR]
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",7 CANAL ESPANHA[COLOR orange](ON)[/COLOR]
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo=" " group-title="",TV 10 MEXICO[COLOR orange](ON)[/COLOR]
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",TV 11 MEXICO[COLOR orange](ON)[/COLOR]
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",TV MILENIO MEXICO[COLOR orange](ON)[/COLOR]
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",TV CUATRO[COLOR orange](ON)[/COLOR]
-https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/chunklist_w185308522_b13128000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",TV CUATRO 2[COLOR orange](ON)[/COLOR]
-https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/chunklist_w1195027786_b13128000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",TV CUATRO 3[COLOR orange](ON)[/COLOR]
-https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/chunklist_w761820852_b13128000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",CANAL 10 CANCUN[COLOR orange](ON)[/COLOR]
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",ACI TV FRANÇA[COLOR orange](ON)[/COLOR]
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w312351782.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",JAPANET TAKADA HD JAPAO[COLOR orange](ON)[/COLOR]
-https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",kontra chanel grecia [COLOR orange](ON)[/COLOR]
-http://flashcloud.mediacdn.com/live/kontratv/chunklist_w1477516246.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",tv ku indonesia[COLOR orange](ON)[/COLOR]
-http://103.30.1.14:8080/hls/live.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",cnn hd indonesia [COLOR orange](ON)[/COLOR]
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w366707841_b384000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",Cloudtrend Service [COLOR orange](ON)[/COLOR]
-https://live.cgtn.com/1000d/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",Arirang HD Koreia do Sul[COLOR orange](ON)[/COLOR]
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",DUBAI ONE TV [COLOR orange](ON)[/COLOR]
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",emirades arabe tv[COLOR orange](ON)[/COLOR]
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",chicago tv [COLOR orange](ON)[/COLOR]
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",cbs news hd usa [COLOR orange](ON)[/COLOR]
-https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1800.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",BLOOMBERG TV HD NY USA[COLOR orange](ON)[/COLOR]
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",miami tv hd +18 usa [COLOR orange](ON)[/COLOR]
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w2127559280_b2592000.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",TV HOLANDA [COLOR orange](ON)[/COLOR]
-https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/chunklist_b4227072.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="",CANALE 7 ESPANHA [COLOR orange](ON)[/COLOR]
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-
--------------RADIOS------------------------------------------------------------------------------------------
-
-#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Kids
-http://192.99.150.31:9431/;
-
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,Rádio MPB
-http://192.99.150.31:8775/stream
-
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,Rádio FORRÓ
-http://192.99.150.31:9019/stream
-
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,Rádio PAGODE
-http://6d9a.webradio.upx.net.br:9061/stream
-
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,anos 2000
-http://6d9a.webradio.upx.net.br:9940/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,sertanejo
-http://192.99.150.31:9485/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,funk
-http://192.99.150.31:9089/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,rock classico
-http://192.99.150.31:9125/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,pop rock
-http://6d9a.webradio.upx.net.br:8016/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,anos 70
-http://192.99.150.31:8241/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,anos 80
-http://192.99.150.31:8697/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,anos 90
-http://192.99.150.31:8056/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,romanticas
-http://192.99.150.31:8962/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,rap nacional
-http://192.99.150.31:8377/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,eletronicas
-http://192.99.150.31:9095/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,festa
-http://6d9a.webradio.upx.net.br:9070/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,gospel
-http://192.99.150.31:9101/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,hiphop
-http://192.99.150.31:8721/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,jazz
-http://192.99.150.31:8042/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,axe
-http://192.99.150.31:8305/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,brega hits
-http://192.99.150.31:9007/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,reggae
-http://192.99.150.31:8715/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,sertanejo universitario
-http://192.99.150.31:9191/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,bahia
-http://6d9a.webradio.upx.net.br:9046/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,trilhas sonoras
-http://6d9a.webradio.upx.net.br:9896/stream
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,fm o dia tv
-http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,big mix
-https://servidor39-1.brlogic.com:8130/live
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,radio mania
-http://shout35.crossradio.com.br:8086
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,BH FM
-https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
-#EXTINF:-1 group-title="Rádios" tvg-logo="" tvg-name=""radio=true,vagalume PAGODE
-https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
-#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/oRYDaYf.png" tvg-name=""radio=true,Rádio Jovem Pan FM
-http://centova6.ciclanohost.com.br:9256/;
-
-
+#EXTINF:259,M - My Movie 20
+#EXTVLCOPT:network-caching=1000
+http://bangextreme.se/files/original_videos/35c5a2cb362c4d2.wmv
+#EXTINF:192,BRAZILFETISHFILMS.COM - BRAZILFETISHFILMS.COM
+#EXTVLCOPT:network-caching=1000
+http://bangextreme.se/files/original_videos/a9986cb066812f4.wmv
+#EXTINF:714,Videos:Adult 4K: VOD10
+#EXTVLCOPT:network-caching=1000
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:728,Videos:Adult 4K: VOD11
+#EXTVLCOPT:network-caching=1000
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:772,Videos:Adult 4K: VOD2
+#EXTVLCOPT:network-caching=1000
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:746,Videos:Adult 4K: VOD3
+#EXTVLCOPT:network-caching=1000
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:655,Videos:Adult 4K: VOD4
+#EXTVLCOPT:network-caching=1000
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:754,Videos:Adult 4K: VOD5
+#EXTVLCOPT:network-caching=1000
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:698,Videos:Adult 4K: VOD6
+#EXTVLCOPT:network-caching=1000
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:636,Videos:Adult 4K: VOD7
+#EXTVLCOPT:network-caching=1000
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:738,Videos:Adult 4K: VOD8
+#EXTVLCOPT:network-caching=1000
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:762,Videos:Adult 4K: VOD9
+#EXTVLCOPT:network-caching=1000
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:307,Videos:XXX-Babes 20
+#EXTVLCOPT:network-caching=1000
+http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4/
+#EXTINF:63,Caroline baianinha na safadeza com o primo atrás da árvore
+#EXTVLCOPT:network-caching=1000
+http://www.flagras.blog.br/wp-content/uploads/2017/03/flagras-278.mp4
+#EXTINF:99,Caroline parte 2
+#EXTVLCOPT:network-caching=1000
+http://www.flagras.blog.br/wp-content/uploads/2017/03/flagras-279.mp4
+#EXTINF:69,Foi pro pagodão e tomou pentada violenta no toalete
+#EXTVLCOPT:network-caching=1000
+http://www.flagras.blog.br/wp-content/uploads/2017/03/flagras-306.mp4
+#EXTINF:44,Flagra Atrás Da Moita Da Festa Rave Rende Um Belo Flagrante Sexual
+#EXTVLCOPT:network-caching=1000
+http://www.flagras.blog.br/wp-content/uploads/2016/11/flagras-114.mp4
+#EXTINF:142,Trepada Na Balada Rende Uma Bom Flagra De Sexo Pra Galera
+#EXTVLCOPT:network-caching=1000
+http://www.flagras.blog.br/wp-content/uploads/2016/10/flagras-095.mp4
+#EXTINF:187,Flagra Vizinha Trepando Com Dois Putos
+#EXTVLCOPT:network-caching=1000
+http://www.flagras.blog.br/wp-content/uploads/2016/07/Flagra-vizinha-dando.mp4
+#EXTINF:441,Flagrou Putaria Real Com Novinha Brasileira
+#EXTVLCOPT:network-caching=1000
+http://www.flagras.blog.br/wp-content/uploads/2016/06/Flagra-da-Karina.mp4
+#EXTINF:139,Fodendo Amante Novinha Gostosa Transando No Banheiro
+#EXTVLCOPT:network-caching=1000
+http://www.flagras.blog.br/wp-content/uploads/2016/06/Flagra-amador-do-moleque-comendo-a-ficante-no-banheiro-da-ca.flv.mp4
+#EXTINF:0,Novinha Transando Com Colegas Do Bairro Onde Mora
+#EXTVLCOPT:network-caching=1000
+http://www.flagras.blog.br/wp-content/uploads/2016/04/Suruba-da-novinha.mp4
+#EXTINF:0,Suruba Com Novinha Do Interior Da Bahia
+#EXTVLCOPT:network-caching=1000
+http://www.flagras.blog.br/wp-content/uploads/2016/04/V%C3%ADdeo-de-suruba.mp4
+#EXTINF:0,Flagra De Sexo Na Escola
+#EXTVLCOPT:network-caching=1000
+http://www.flagras.blog.br/wp-content/uploads/2016/02/escola3.mp4
+#EXTINF:150,Fodendo Empregada Negra Novinha Gostosa
+#EXTVLCOPT:network-caching=1000
+http://www.flagras.blog.br/wp-content/uploads/2016/02/empregada1.mp4
+#EXTINF:0,Putinha Amadora Faz um Ménage Com Dois Amigos
+#EXTVLCOPT:network-caching=1000
+http://cdnr2.pornocarioca.com/videos/mp4/4160/4160.mp4
+#EXTINF:179,BRAZZERS 1
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3351/180sec.flv
+#EXTINF:182,BRAZZERS 10
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3360/180sec.flv
+#EXTINF:175,BRAZZERS 100
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3449/180sec.flv
+#EXTINF:185,BRAZZERS 101
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3450/180sec.flv
+#EXTINF:185,BRAZZERS 102
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3451/180sec.flv
+#EXTINF:184,BRAZZERS 103
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3481/180sec.flv
+#EXTINF:184,BRAZZERS 104
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3453/180sec.flv
+#EXTINF:0,BRAZZERS 105
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3454/180sec.flv
+#EXTINF:0,BRAZZERS 106
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3455/180sec.flv
+#EXTINF:0,BRAZZERS 107
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3480/180sec.flv
+#EXTINF:0,BRAZZERS 108
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3479/180sec.flv
+#EXTINF:0,BRAZZERS 109
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3458/180sec.flv
+#EXTINF:0,BRAZZERS 11
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3361/180sec.flv
+#EXTINF:0,BRAZZERS 110
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3459/180sec.flv
+#EXTINF:0,BRAZZERS 111
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3460/180sec.flv
+#EXTINF:0,BRAZZERS 112
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3461/180sec.flv
+#EXTINF:0,BRAZZERS 113
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3462/180sec.flv
+#EXTINF:0,BRAZZERS 114
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3463/180sec.flv
+#EXTINF:0,BRAZZERS 115
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3478/180sec.flv
+#EXTINF:184,BRAZZERS 116
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3465/180sec.flv
+#EXTINF:180,BRAZZERS 117
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3350/180sec.flv
+#EXTINF:0,BRAZZERS 118
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3291/180sec.flv
+#EXTINF:0,BRAZZERS 119
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3292/180sec.flv
+#EXTINF:0,BRAZZERS 12
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3362/180sec.flv
+#EXTINF:0,BRAZZERS 120
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3293/180sec.flv
+#EXTINF:0,BRAZZERS 121
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3294/180sec.flv
+#EXTINF:0,BRAZZERS 122
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3295/180sec.flv
+#EXTINF:0,BRAZZERS 123
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3296/180sec.flv
+#EXTINF:180,BRAZZERS 124
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3297/180sec.flv
+#EXTINF:0,BRAZZERS 125
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3298/180sec.flv
+#EXTINF:0,BRAZZERS 126
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3477/180sec.flv
+#EXTINF:0,BRAZZERS 127
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3300/180sec.flv
+#EXTINF:0,BRAZZERS 128
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3301/180sec.flv
+#EXTINF:0,BRAZZERS 129
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3302/180sec.flv
+#EXTINF:0,BRAZZERS 13
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3489/180sec.flv
+#EXTINF:0,BRAZZERS 130
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3303/180sec.flv
+#EXTINF:0,BRAZZERS 131
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3304/180sec.flv
+#EXTINF:0,BRAZZERS 132
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3305/180sec.flv
+#EXTINF:0,BRAZZERS 133
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3306/180sec.flv
+#EXTINF:0,BRAZZERS 134
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3307/180sec.flv
+#EXTINF:0,BRAZZERS 135
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3308/180sec.flv
+#EXTINF:0,BRAZZERS 136
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3309/180sec.flv
+#EXTINF:0,BRAZZERS 137
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3310/180sec.flv
+#EXTINF:0,BRAZZERS 138
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3311/180sec.flv
+#EXTINF:0,BRAZZERS 139
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3312/180sec.flv
+#EXTINF:0,BRAZZERS 14
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3488/180sec.flv
+#EXTINF:0,BRAZZERS 140
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3313/180sec.flv
+#EXTINF:0,BRAZZERS 141
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3314/180sec.flv
+#EXTINF:0,BRAZZERS 142
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3315/180sec.flv
+#EXTINF:0,BRAZZERS 143
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3316/180sec.flv
+#EXTINF:0,BRAZZERS 144
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3317/180sec.flv
+#EXTINF:0,BRAZZERS 145
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3318/180sec.flv
+#EXTINF:0,BRAZZERS 146
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3475/180sec.flv
+#EXTINF:0,BRAZZERS 147
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3474/180sec.flv
+#EXTINF:0,BRAZZERS 148
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3321/180sec.flv
+#EXTINF:0,BRAZZERS 149
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3471/180sec.flv
+#EXTINF:0,BRAZZERS 15
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3365/180sec.flv
+#EXTINF:0,BRAZZERS 150
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3323/180sec.flv
+#EXTINF:0,BRAZZERS 151
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3324/180sec.flv
+#EXTINF:0,BRAZZERS 152
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3325/180sec.flv
+#EXTINF:0,BRAZZERS 153
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3326/180sec.flv
+#EXTINF:0,BRAZZERS 154
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3327/180sec.flv
+#EXTINF:0,BRAZZERS 155
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3328/180sec.flv
+#EXTINF:0,BRAZZERS 156
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3469/180sec.flv
+#EXTINF:0,BRAZZERS 157
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3330/180sec.flv
+#EXTINF:0,BRAZZERS 158
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3331/180sec.flv
+#EXTINF:0,BRAZZERS 159
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3332/180sec.flv
+#EXTINF:0,BRAZZERS 16
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3366/180sec.flv
+#EXTINF:0,BRAZZERS 160
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3333/180sec.flv
+#EXTINF:0,BRAZZERS 161
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3334/180sec.flv
+#EXTINF:0,BRAZZERS 162
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3335/180sec.flv
+#EXTINF:0,BRAZZERS 163
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3336/180sec.flv
+#EXTINF:0,BRAZZERS 164
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3337/180sec.flv
+#EXTINF:0,BRAZZERS 165
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3338/180sec.flv
+#EXTINF:0,BRAZZERS 166
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3339/180sec.flv
+#EXTINF:0,BRAZZERS 167
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3340/180sec.flv
+#EXTINF:0,BRAZZERS 168
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3468/180sec.flv
+#EXTINF:0,BRAZZERS 169
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3342/180sec.flv
+#EXTINF:0,BRAZZERS 17
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3367/180sec.flv
+#EXTINF:0,BRAZZERS 170
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3343/180sec.flv
+#EXTINF:0,BRAZZERS 171
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3344/180sec.flv
+#EXTINF:0,BRAZZERS 172
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3345/180sec.flv
+#EXTINF:0,BRAZZERS 173
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3466/180sec.flv
+#EXTINF:0,BRAZZERS 174
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3347/180sec.flv
+#EXTINF:0,BRAZZERS 175
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3348/180sec.flv
+#EXTINF:0,BRAZZERS 176
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3349/180sec.flv
+#EXTINF:0,BRAZZERS 177
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3490/180sec.flv
+#EXTINF:0,BRAZZERS 178
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3491/180sec.flv
+#EXTINF:0,BRAZZERS 179
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3492/180sec.flv
+#EXTINF:0,BRAZZERS 18
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3368/180sec.flv
+#EXTINF:0,BRAZZERS 180
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3493/180sec.flv
+#EXTINF:0,BRAZZERS 181
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3494/180sec.flv
+#EXTINF:0,BRAZZERS 182
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3495/180sec.flv
+#EXTINF:0,BRAZZERS 183
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3496/180sec.flv
+#EXTINF:0,BRAZZERS 184
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3497/180sec.flv
+#EXTINF:0,BRAZZERS 185
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3498/180sec.flv
+#EXTINF:0,BRAZZERS 186
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3499/180sec.flv
+#EXTINF:0,BRAZZERS 187
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3500/180sec.flv
+#EXTINF:0,BRAZZERS 188
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3501/180sec.flv
+#EXTINF:0,BRAZZERS 189
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3503/180sec.flv
+#EXTINF:0,BRAZZERS 19
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3369/180sec.flv
+#EXTINF:0,BRAZZERS 190
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3504/180sec.flv
+#EXTINF:0,BRAZZERS 191
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3505/180sec.flv
+#EXTINF:0,BRAZZERS 192
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3507/180sec.flv
+#EXTINF:0,BRAZZERS 193
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3508/180sec.flv
+#EXTINF:0,BRAZZERS 194
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3509/180sec.flv
+#EXTINF:0,BRAZZERS 195
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3510/180sec.flv
+#EXTINF:0,BRAZZERS 196
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3511/180sec.flv
+#EXTINF:0,BRAZZERS 197
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3512/180sec.flv
+#EXTINF:0,BRAZZERS 198
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3513/180sec.flv
+#EXTINF:0,BRAZZERS 199
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3514/180sec.flv
+#EXTINF:0,BRAZZERS 2
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3352/180sec.flv
+#EXTINF:0,BRAZZERS 20
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3487/180sec.flv
+#EXTINF:0,BRAZZERS 200
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3515/180sec.flv
+#EXTINF:0,BRAZZERS 201
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3516/180sec.flv
+#EXTINF:0,BRAZZERS 202
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3517/180sec.flv
+#EXTINF:0,BRAZZERS 203
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3518/180sec.flv
+#EXTINF:0,BRAZZERS 204
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3520/180sec.flv
+#EXTINF:0,BRAZZERS 205
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3521/180sec.flv
+#EXTINF:0,BRAZZERS 206
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3522/180sec.flv
+#EXTINF:0,BRAZZERS 207
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3526/180sec.flv
+#EXTINF:0,BRAZZERS 208
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3527/180sec.flv
+#EXTINF:0,BRAZZERS 209
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3528/180sec.flv
+#EXTINF:0,BRAZZERS 21
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3371/180sec.flv
+#EXTINF:0,BRAZZERS 210
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3529/180sec.flv
+#EXTINF:0,BRAZZERS 211
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3530/180sec.flv
+#EXTINF:0,BRAZZERS 212
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3531/180sec.flv
+#EXTINF:0,BRAZZERS 213
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3534/180sec.flv
+#EXTINF:0,BRAZZERS 214
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3535/180sec.flv
+#EXTINF:0,BRAZZERS 215
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3536/180sec.flv
+#EXTINF:0,BRAZZERS 216
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3537/180sec.flv
+#EXTINF:0,BRAZZERS 217
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3538/180sec.flv
+#EXTINF:0,BRAZZERS 218
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3539/180sec.flv
+#EXTINF:0,BRAZZERS 219
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3540/180sec.flv
+#EXTINF:0,BRAZZERS 22
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3372/180sec.flv
+#EXTINF:0,BRAZZERS 220
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3541/180sec.flv
+#EXTINF:0,BRAZZERS 221
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3542/180sec.flv
+#EXTINF:0,BRAZZERS 222
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3543/180sec.flv
+#EXTINF:0,BRAZZERS 223
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3544/180sec.flv
+#EXTINF:0,BRAZZERS 224
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3545/180sec.flv
+#EXTINF:0,BRAZZERS 225
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3546/180sec.flv
+#EXTINF:0,BRAZZERS 227
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3547/180sec.flv
+#EXTINF:0,BRAZZERS 228
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3548/180sec.flv
+#EXTINF:0,BRAZZERS 229
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3549/180sec.flv
+#EXTINF:0,BRAZZERS 23
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3373/180sec.flv
+#EXTINF:0,BRAZZERS 230
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3550/180sec.flv
+#EXTINF:0,BRAZZERS 231
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3551/180sec.flv
+#EXTINF:0,BRAZZERS 232
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3552/180sec.flv
+#EXTINF:0,BRAZZERS 233
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3553/180sec.flv
+#EXTINF:0,BRAZZERS 234
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3554/180sec.flv
+#EXTINF:0,BRAZZERS 235
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3555/180sec.flv
+#EXTINF:0,BRAZZERS 236
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3556/180sec.flv
+#EXTINF:0,BRAZZERS 237
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3557/180sec.flv
+#EXTINF:0,BRAZZERS 238
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3558/180sec.flv
+#EXTINF:0,BRAZZERS 239
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3559/180sec.flv
+#EXTINF:0,BRAZZERS 24
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3374/180sec.flv
+#EXTINF:0,BRAZZERS 240
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3560/180sec.flv
+#EXTINF:0,BRAZZERS 241
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3561/180sec.flv
+#EXTINF:0,BRAZZERS 242
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3562/180sec.flv
+#EXTINF:0,BRAZZERS 243
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3563/180sec.flv
+#EXTINF:0,BRAZZERS 244
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3564/180sec.flv
+#EXTINF:0,BRAZZERS 245
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3565/180sec.flv
+#EXTINF:0,BRAZZERS 246
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3566/180sec.flv
+#EXTINF:0,BRAZZERS 247
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3567/180sec.flv
+#EXTINF:0,BRAZZERS 248
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3568/180sec.flv
+#EXTINF:0,BRAZZERS 249
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3569/180sec.flv
+#EXTINF:0,BRAZZERS 25
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3375/180sec.flv
+#EXTINF:0,BRAZZERS 250
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3570/180sec.flv
+#EXTINF:0,BRAZZERS 251
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3571/180sec.flv
+#EXTINF:0,BRAZZERS 252
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3572/180sec.flv
+#EXTINF:0,BRAZZERS 253
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3573/180sec.flv
+#EXTINF:0,BRAZZERS 254
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3575/180sec.flv
+#EXTINF:0,BRAZZERS 255
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3576/180sec.flv
+#EXTINF:0,BRAZZERS 256
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3577/180sec.flv
+#EXTINF:0,BRAZZERS 257
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3586/180sec.flv
+#EXTINF:0,BRAZZERS 258
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3588/180sec.flv
+#EXTINF:0,BRAZZERS 259
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3589/180sec.flv
+#EXTINF:0,BRAZZERS 26
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3376/180sec.flv
+#EXTINF:0,BRAZZERS 260
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3590/180sec.flv
+#EXTINF:0,BRAZZERS 261
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3591/180sec.flv
+#EXTINF:0,BRAZZERS 262
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3592/180sec.flv
+#EXTINF:0,BRAZZERS 263
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3593/180sec.flv
+#EXTINF:0,BRAZZERS 264
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3594/180sec.flv
+#EXTINF:0,BRAZZERS 265
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3595/180sec.flv
+#EXTINF:0,BRAZZERS 266
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3596/180sec.flv
+#EXTINF:0,BRAZZERS 267
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3597/180sec.flv
+#EXTINF:0,BRAZZERS 268
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3598/180sec.flv
+#EXTINF:0,BRAZZERS 269
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3599/180sec.flv
+#EXTINF:0,BRAZZERS 27
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3377/180sec.flv
+#EXTINF:0,BRAZZERS 270
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3600/180sec.flv
+#EXTINF:0,BRAZZERS 271
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3601/180sec.flv
+#EXTINF:0,BRAZZERS 272
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3602/180sec.flv
+#EXTINF:0,BRAZZERS 273
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3603/180sec.flv
+#EXTINF:0,BRAZZERS 274
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3604/180sec.flv
+#EXTINF:0,BRAZZERS 275
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3605/180sec.flv
+#EXTINF:0,BRAZZERS 276
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3606/180sec.flv
+#EXTINF:0,BRAZZERS 277
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3607/180sec.flv
+#EXTINF:0,BRAZZERS 278
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3608/180sec.flv
+#EXTINF:0,BRAZZERS 279
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3609/180sec.flv
+#EXTINF:0,BRAZZERS 28
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3378/180sec.flv
+#EXTINF:0,BRAZZERS 280
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3610/180sec.flv
+#EXTINF:0,BRAZZERS 281
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3611/180sec.flv
+#EXTINF:0,BRAZZERS 282
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3612/180sec.flv
+#EXTINF:0,BRAZZERS 283
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3613/180sec.flv
+#EXTINF:0,BRAZZERS 284
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3614/180sec.flv
+#EXTINF:0,BRAZZERS 285
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3615/180sec.flv
+#EXTINF:0,BRAZZERS 286
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3616/180sec.flv
+#EXTINF:0,BRAZZERS 287
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3617/180sec.flv
+#EXTINF:0,BRAZZERS 288
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3619/180sec.flv
+#EXTINF:0,BRAZZERS 289
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3620/180sec.flv
+#EXTINF:0,BRAZZERS 29
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3379/180sec.flv
+#EXTINF:0,BRAZZERS 290
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3621/180sec.flv
+#EXTINF:0,BRAZZERS 291
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3622/180sec.flv
+#EXTINF:0,BRAZZERS 292
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3623/180sec.flv
+#EXTINF:0,BRAZZERS 293
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3625/180sec.flv
+#EXTINF:0,BRAZZERS 294
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3626/180sec.flv
+#EXTINF:0,BRAZZERS 295
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3627/180sec.flv
+#EXTINF:0,BRAZZERS 296
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3628/180sec.flv
+#EXTINF:0,BRAZZERS 297
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3629/180sec.flv
+#EXTINF:0,BRAZZERS 298
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3630/180sec.flv
+#EXTINF:0,BRAZZERS 299
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3631/180sec.flv
+#EXTINF:0,BRAZZERS 3
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3353/180sec.flv
+#EXTINF:0,BRAZZERS 30
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3380/180sec.flv
+#EXTINF:0,BRAZZERS 300
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3632/180sec.flv
+#EXTINF:0,BRAZZERS 31
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3381/180sec.flv
+#EXTINF:0,BRAZZERS 32
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3382/180sec.flv
+#EXTINF:0,BRAZZERS 33
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3383/180sec.flv
+#EXTINF:0,BRAZZERS 34
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3384/180sec.flv
+#EXTINF:0,BRAZZERS 35
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3385/180sec.flv
+#EXTINF:0,BRAZZERS 36
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3386/180sec.flv
+#EXTINF:0,BRAZZERS 37
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3387/180sec.flv
+#EXTINF:0,BRAZZERS 38
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3388/180sec.flv
+#EXTINF:180,BRAZZERS 39
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3485/180sec.flv
+#EXTINF:0,BRAZZERS 4
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3354/180sec.flv
+#EXTINF:0,BRAZZERS 40
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3389/180sec.flv
+#EXTINF:0,BRAZZERS 41
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3390/180sec.flv
+#EXTINF:0,BRAZZERS 42
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3391/180sec.flv
+#EXTINF:0,BRAZZERS 43
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3392/180sec.flv
+#EXTINF:0,BRAZZERS 44
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3393/180sec.flv
+#EXTINF:0,BRAZZERS 45
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3394/180sec.flv
+#EXTINF:0,BRAZZERS 46
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3395/180sec.flv
+#EXTINF:0,BRAZZERS 47
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3396/180sec.flv
+#EXTINF:0,BRAZZERS 48
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3397/180sec.flv
+#EXTINF:0,BRAZZERS 49
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3398/180sec.flv
+#EXTINF:0,BRAZZERS 5
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3355/180sec.flv
+#EXTINF:0,BRAZZERS 50
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3483/180sec.flv
+#EXTINF:0,BRAZZERS 51
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3400/180sec.flv
+#EXTINF:0,BRAZZERS 52
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3401/180sec.flv
+#EXTINF:0,BRAZZERS 53
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3402/180sec.flv
+#EXTINF:0,BRAZZERS 54
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3482/180sec.flv
+#EXTINF:0,BRAZZERS 55
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3404/180sec.flv
+#EXTINF:0,BRAZZERS 56
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3405/180sec.flv
+#EXTINF:0,BRAZZERS 57
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3406/180sec.flv
+#EXTINF:0,BRAZZERS 58
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3407/180sec.flv
+#EXTINF:0,BRAZZERS 59
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3408/180sec.flv
+#EXTINF:0,BRAZZERS 6
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3356/180sec.flv
+#EXTINF:0,BRAZZERS 60
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3409/180sec.flv
+#EXTINF:0,BRAZZERS 61
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3410/180sec.flv
+#EXTINF:0,BRAZZERS 62
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3411/180sec.flv
+#EXTINF:0,BRAZZERS 63
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3412/180sec.flv
+#EXTINF:0,BRAZZERS 64
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3413/180sec.flv
+#EXTINF:0,BRAZZERS 65
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3414/180sec.flv
+#EXTINF:0,BRAZZERS 66
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3415/180sec.flv
+#EXTINF:0,BRAZZERS 67
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3416/180sec.flv
+#EXTINF:0,BRAZZERS 68
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3417/180sec.flv
+#EXTINF:0,BRAZZERS 69
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3418/180sec.flv
+#EXTINF:0,BRAZZERS 7
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3357/180sec.flv
+#EXTINF:0,BRAZZERS 70
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3419/180sec.flv
+#EXTINF:0,BRAZZERS 71
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3420/180sec.flv
+#EXTINF:0,BRAZZERS 72
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3421/180sec.flv
+#EXTINF:0,BRAZZERS 73
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3422/180sec.flv
+#EXTINF:0,BRAZZERS 74
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3423/180sec.flv
+#EXTINF:0,BRAZZERS 75
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3424/180sec.flv
+#EXTINF:0,BRAZZERS 76
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3425/180sec.flv
+#EXTINF:0,BRAZZERS 77
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3426/180sec.flv
+#EXTINF:0,BRAZZERS 78
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3427/180sec.flv
+#EXTINF:0,BRAZZERS 79
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3428/180sec.flv
+#EXTINF:0,BRAZZERS 8
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3358/180sec.flv
+#EXTINF:0,BRAZZERS 80
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3429/180sec.flv
+#EXTINF:0,BRAZZERS 81
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3430/180sec.flv
+#EXTINF:0,BRAZZERS 82
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3431/180sec.flv
+#EXTINF:0,BRAZZERS 83
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3432/180sec.flv
+#EXTINF:0,BRAZZERS 84
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3433/180sec.flv
+#EXTINF:0,BRAZZERS 85
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3434/180sec.flv
+#EXTINF:0,BRAZZERS 86
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3435/180sec.flv
+#EXTINF:0,BRAZZERS 87
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3436/180sec.flv
+#EXTINF:0,BRAZZERS 88
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3437/180sec.flv
+#EXTINF:0,BRAZZERS 89
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3438/180sec.flv
+#EXTINF:182,BRAZZERS 9
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3359/180sec.flv
+#EXTINF:185,BRAZZERS 90
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3439/180sec.flv
+#EXTINF:0,BRAZZERS 91
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3440/180sec.flv
+#EXTINF:0,BRAZZERS 92
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3441/180sec.flv
+#EXTINF:0,BRAZZERS 93
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3442/180sec.flv
+#EXTINF:0,BRAZZERS 94
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3443/180sec.flv
+#EXTINF:0,BRAZZERS 95
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3444/180sec.flv
+#EXTINF:0,BRAZZERS 96
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3445/180sec.flv
+#EXTINF:0,BRAZZERS 97
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3446/180sec.flv
+#EXTINF:182,BRAZZERS 98
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3447/180sec.flv
+#EXTINF:0,BRAZZERS 99
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3448/180sec.flv
+#EXTINF:182,BRAZZERS
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3327/180sec.flv
+#EXTINF:1,BRAZZERS
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3328/180sec.flv
+#EXTINF:1,BRAZZERS
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3329/180sec.flv
+#EXTINF:1,BRAZZERS
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3330/180sec.flv
+#EXTINF:1,BRAZZERS
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3340/180sec.flv
+#EXTINF:1,BRAZZERS
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3341/180sec.flv
+#EXTINF:179,BRAZZERS
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3342/180sec.flv
+#EXTINF:179,BRAZZERS
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3343/180sec.flv
+#EXTINF:179,BRAZZERS
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3344/180sec.flv
+#EXTINF:1,BRAZZERS
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3345/180sec.flv
+#EXTINF:487,Chichi Medina
+#EXTVLCOPT:network-caching=1000
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chichi_medina_8minutes.mp4
+#EXTINF:0,Chloe Foster
+#EXTVLCOPT:network-caching=1000
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chloe_foster_8minutes.mp4
+#EXTINF:0,Dakota Skye
+#EXTVLCOPT:network-caching=1000
+http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_dakota_skye_12minute.mp4
+#EXTINF:488,Demida
+#EXTVLCOPT:network-caching=1000
+http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
+#EXTINF:0,Dusya
+#EXTVLCOPT:network-caching=1000
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_dusya_12minute.mp4
+#EXTINF:0,FETISH 1
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/6664_Bobbi_Dana_Winter_Vendetta_md.mp4
+#EXTINF:0,FETISH 10
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/6770_BobbieStar_md.mp4
+#EXTINF:0,FETISH 100
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/whippedass/1501_Mika_Sonya_md.mp4
+#EXTINF:0,FETISH 101
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/waterbondage/3144_Keeani_Kat_md.mp4
+#EXTINF:0,FETISH 102
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/waterbondage/3457_dragon_md.mp4
+#EXTINF:0,FETISH 103
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/waterbondage/3504_pinky_dana_md.mp4
+#EXTINF:0,FETISH 104
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/waterbondage/4174_wenona_md.mp4
+#EXTINF:0,FETISH 105
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/ultimatesurrender/2845_isis_sarah_md.mp4
+#EXTINF:0,FETISH 106
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/waterbondage/5106_wenona_md.mp4
+#EXTINF:0,FETISH 107
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/ultimatesurrender/3011_dragon_Nina_md.mp4
+#EXTINF:0,FETISH 108
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/ultimatesurrender/3186_christina_dragon_md.mp4
+#EXTINF:0,FETISH 109
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/ultimatesurrender/3366_vendetta_christina_md.mp4
+#EXTINF:0,FETISH 11
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_137_rikifixit_02.wmv
+#EXTINF:0,FETISH 110
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/ultimatesurrender/3499_jade_dana_md.mp4
+#EXTINF:0,FETISH 111
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/ultimatesurrender/3596_vendetta_julie_md.mp4
+#EXTINF:0,FETISH 12
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_137_rikifixit_03.wmv
+#EXTINF:0,FETISH 13
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_137_rikifixit_04.wmv
+#EXTINF:0,FETISH 14
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_137_rikifixit_05.wmv
+#EXTINF:0,FETISH 15
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_139_lefty_01.wmv
+#EXTINF:0,FETISH 16
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_139_lefty_02.wmv
+#EXTINF:0,FETISH 17
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_139_lefty_03.wmv
+#EXTINF:0,FETISH 18
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_139_lefty_04.wmv
+#EXTINF:0,FETISH 19
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_140_markfrenchy_01.wmv
+#EXTINF:0,FETISH 2
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/6668_Randy_Trina_Harmony_md.mp4
+#EXTINF:0,FETISH 20
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_140_markfrenchy_02.wmv
+#EXTINF:0,FETISH 21
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_140_markfrenchy_03.wmv
+#EXTINF:0,FETISH 22
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_140_markfrenchy_04.wmv
+#EXTINF:0,FETISH 23
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_140_markfrenchy_05.wmv
+#EXTINF:0,FETISH 24
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_148_servant_01.wmv
+#EXTINF:0,FETISH 25
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_148_servant_02.wmv
+#EXTINF:0,FETISH 26
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_148_servant_03.wmv
+#EXTINF:0,FETISH 27
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_149_lefty_01.wmv
+#EXTINF:0,FETISH 28
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_149_lefty_02.wmv
+#EXTINF:0,FETISH 29
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_149_lefty_03.wmv
+#EXTINF:0,FETISH 3
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/6672_amber_randy_md.mp4
+#EXTINF:0,FETISH 30
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_157_kade_01Intro.wmv
+#EXTINF:0,FETISH 31
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_157_kade_02.wmv
+#EXTINF:0,FETISH 32
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_157_kade_03.wmv
+#EXTINF:0,FETISH 33
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_157_kade_04.wmv
+#EXTINF:0,FETISH 34
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_157_kade_05.wmv
+#EXTINF:0,FETISH 35
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_158_lefty_01.wmv
+#EXTINF:0,FETISH 36
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_158_lefty_02.wmv
+#EXTINF:0,FETISH 37
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_158_lefty_03.wmv
+#EXTINF:0,FETISH 38
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_158_lefty_04.wmv
+#EXTINF:0,FETISH 39
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_158_lefty_05.wmv
+#EXTINF:0,FETISH 4
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/6679_Maggie_Otto_Lochai_md.mp4
+#EXTINF:0,FETISH 40
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_158_lefty_06.wmv
+#EXTINF:0,FETISH 41
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_161_tj_cummings_01.wmv
+#EXTINF:0,FETISH 42
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_161_tj_cummings_02.wmv
+#EXTINF:0,FETISH 43
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_161_tj_cummings_03.wmv
+#EXTINF:0,FETISH 44
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_161_tj_cummings_04.wmv
+#EXTINF:0,FETISH 45
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_161_tj_cummings_05.wmv
+#EXTINF:0,FETISH 46
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_161_tj_cummings_06.wmv
+#EXTINF:0,FETISH 47
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_161_tj_cummings_07.wmv
+#EXTINF:0,FETISH 48
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_162_oscarbeyer_01.wmv
+#EXTINF:0,FETISH 49
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_162_oscarbeyer_02.wmv
+#EXTINF:0,FETISH 5
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/6684_madison_cyd_md.mp4
+#EXTINF:0,FETISH 50
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_162_oscarbeyer_03.wmv
+#EXTINF:0,FETISH 51
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_162_oscarbeyer_04.wmv
+#EXTINF:0,FETISH 52
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_179_secretagent_01.wmv
+#EXTINF:0,FETISH 53
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_179_secretagent_02.wmv
+#EXTINF:0,FETISH 54
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_179_secretagent_03.wmv
+#EXTINF:0,FETISH 55
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_182_wildbill_01.wmv
+#EXTINF:0,FETISH 56
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_182_wildbill_02.wmv
+#EXTINF:0,FETISH 57
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_182_wildbill_03.wmv
+#EXTINF:0,FETISH 58
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_182_wildbill_04.wmv
+#EXTINF:0,FETISH 59
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_184_dick_DL_01.wmv
+#EXTINF:0,FETISH 6
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/6695_trinity_lobo_md.mp4
+#EXTINF:0,FETISH 60
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_184_dick_DL_02.wmv
+#EXTINF:0,FETISH 61
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_184_dick_DL_03.wmv
+#EXTINF:0,FETISH 62
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_184_dick_DL_04.wmv
+#EXTINF:0,FETISH 63
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_184_dick_DL_05.wmv
+#EXTINF:0,FETISH 64
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_187_tjwest_01Intro.wmv
+#EXTINF:0,FETISH 65
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_187_tjwest_02.wmv
+#EXTINF:0,FETISH 66
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_187_tjwest_03.wmv
+#EXTINF:0,FETISH 67
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_187_tjwest_04.wmv
+#EXTINF:0,FETISH 68
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_187_tjwest_05.wmv
+#EXTINF:0,FETISH 69
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_188_RickHunt_01.wmv
+#EXTINF:0,FETISH 7
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/6704_ten_md.mp4
+#EXTINF:0,FETISH 70
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_188_RickHunt_02.wmv
+#EXTINF:0,FETISH 71
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_188_RickHunt_03.wmv
+#EXTINF:0,FETISH 72
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_188_RickHunt_04.wmv
+#EXTINF:0,FETISH 73
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_188_RickHunt_05.wmv
+#EXTINF:0,FETISH 74
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_188_RickHunt_06.wmv
+#EXTINF:0,FETISH 75
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_195_daxstar_01.wmv
+#EXTINF:0,FETISH 76
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_195_daxstar_02.wmv
+#EXTINF:0,FETISH 77
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_195_daxstar_03.wmv
+#EXTINF:0,FETISH 78
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_195_daxstar_04.wmv
+#EXTINF:0,FETISH 79
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_459_hi.flv
+#EXTINF:0,FETISH 8
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/6721_Claire_Adrianna_md.mp4
+#EXTINF:0,FETISH 80
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/captivemale/CM_465_hi.flv
+#EXTINF:0,FETISH 81
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/wiredpussy/1022_kendra_kat_md.mp4
+#EXTINF:0,FETISH 82
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/wiredpussy/1038_ashley_cowgirl_md.mp4
+#EXTINF:0,FETISH 83
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/wiredpussy/1070_heavenlee_chanta_md.mp4
+#EXTINF:0,FETISH 84
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/wiredpussy/1075_melanie_md.mp4
+#EXTINF:0,FETISH 85
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/wiredpussy/1082_cassandra_chanta_md.mp4
+#EXTINF:0,FETISH 86
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/wiredpussy/1120_rose_chanta_md.mp4
+#EXTINF:0,FETISH 87
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/wiredpussy/1160_sinnamon_chanta_md.mp4
+#EXTINF:0,FETISH 88
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/wiredpussy/1161_kali_kory_chanta_md.mp4
+#EXTINF:0,FETISH 89
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/wiredpussy/1164_roxy_chanta_md.mp4
+#EXTINF:0,FETISH 9
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/6734_Ten_md.mp4
+#EXTINF:0,FETISH 90
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/wiredpussy/1186_seven_chanta_md.mp4
+#EXTINF:0,FETISH 91
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/wiredpussy/1211_chanta_seven_md.mp4
+#EXTINF:0,FETISH 92
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/wiredpussy/1215_rio_chanta_md.mp4
+#EXTINF:0,FETISH 93
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/whippedass/1069_chanta_heavenlee_md.mp4
+#EXTINF:0,FETISH 94
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/whippedass/1092_kym_ana_md.mp4
+#EXTINF:0,FETISH 95
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/whippedass/1100_kym_anastasia_md.mp4
+#EXTINF:0,FETISH 96
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/whippedass/1144_PrincessKali_LenaRamon_SaraTonen_md.mp4
+#EXTINF:0,FETISH 97
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/whippedass/1221_chanta_seven_md.mp4
+#EXTINF:0,FETISH 98
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/whippedass/1270_ivy_chanta_md.mp4
+#EXTINF:0,FETISH 99
+#EXTVLCOPT:network-caching=1000
+http://admin.fetishbox.com/_content/whippedass/1388_madison_chanta_md.mp4
+#EXTINF:741,Gerta
+#EXTVLCOPT:network-caching=1000
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_gerta_12minute.mp4
+#EXTINF:738,Irina
+#EXTVLCOPT:network-caching=1000
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_ilina_12minute.mp4
+#EXTINF:725,Jane
+#EXTVLCOPT:network-caching=1000
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_jane_12minute.mp4
+#EXTINF:483,Lacie Channing
+#EXTVLCOPT:network-caching=1000
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_lacie_channing_8minutes.mp4
+#EXTINF:720,Mirabella
+#EXTVLCOPT:network-caching=1000
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_mirabella_12minute.mp4
+#EXTINF:309,Natalia_Rossi
+#EXTVLCOPT:network-caching=1000
+http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
+#EXTINF:726,Neona
+#EXTVLCOPT:network-caching=1000
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_neona_12minute.mp4
+#EXTINF:0,Pornoid 1
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0005dba5913997b85bdeebf89eb19a15/83000/83881/83881.mp4
+#EXTINF:0,Pornoid 10
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/007e20b3bd548339c2b6c4c83cee6d64/3000/3407/3407.mp4
+#EXTINF:0,Pornoid 100
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/05141ffb9b60e0434e27e84c631ffdc5/76000/76977/76977.mp4
+#EXTINF:0,Pornoid 101
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/051cba5d4f54c42a89309dd351bbfdc1/67000/67730/67730.mp4
+#EXTINF:0,Pornoid 102
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/051e20cb49e5447f6630842e3d026198/8000/8066/8066.mp4
+#EXTINF:0,Pornoid 103
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/05269e0d7d8d7aae738207c11ad16fcf/22000/22468/22468.mp4
+#EXTINF:0,Pornoid 104
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/052d4fe1b904d74db5dd035f63a9089b/25000/25217/25217.mp4
+#EXTINF:0,Pornoid 105
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0534caf8f2e3dadd3aca6de94001312a/44000/44156/44156.mp4
+#EXTINF:0,Pornoid 106
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0549f776a7cc908ef035a5a0b94d1bb3/31000/31649/31649.mp4
+#EXTINF:0,Pornoid 107
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/055a52b19702b4445b194934027c06cb/38000/38858/38858.mp4
+#EXTINF:0,Pornoid 108
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/057165f842d6295172fc088a3cbcdbda/18000/18454/18454.mp4
+#EXTINF:0,Pornoid 109
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/05797103fbd3ff55ebddaa9aab619293/68000/68614/68614.mp4
+#EXTINF:0,Pornoid 11
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/007fc608674860bf9a36c3cc6a7ea79a/9000/9737/9737.mp4
+#EXTINF:0,Pornoid 110
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/058521ae566fa36f0737b4c7fe5fbe09/73000/73676/73676.mp4
+#EXTINF:0,Pornoid 111
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/05925c3589e050870d5b1edfa46a1c18/9000/9949/9949.mp4
+#EXTINF:0,Pornoid 112
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/05972c976bad60e068ee1f826a2d2baa/32000/32954/32954.mp4
+#EXTINF:0,Pornoid 113
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/059bc606fd467b1b61e5c6baa8e9aff4/74000/74055/74055.mp4
+#EXTINF:0,Pornoid 114
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/05a0ee6c5825567890698c70a7244bb1/15000/15280/15280.mp4
+#EXTINF:0,Pornoid 115
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/05a7717df8e9b420dd723e7c41b83a7b/68000/68348/68348.mp4
+#EXTINF:0,Pornoid 116
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/05a863bcc087520469bd138af9aab5d8/10000/10880/10880.mp4
+#EXTINF:0,Pornoid 117
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/05b084ac0aa4e1dd7a04dbd48ddb4c7c/39000/39250/39250.mp4
+#EXTINF:0,Pornoid 118
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/05b3a05e8771c93fac2632bb87ecfba8/44000/44492/44492.mp4
+#EXTINF:0,Pornoid 119
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/05bc20aa0bc99876ddd7ec3b4b9312b9/79000/79037/79037.mp4
+#EXTINF:0,Pornoid 12
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/008937cd8f9a9aa63fd587e8e535e046/2000/2354/2354.mp4
+#EXTINF:0,Pornoid 120
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/05c483e2a25fbafba00c8a17525d88d6/42000/42966/42966.mp4
+#EXTINF:0,Pornoid 121
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/05d288794d84f991f54f063f20e05cc4/61000/61322/61322.mp4
+#EXTINF:0,Pornoid 122
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/08879644d7c1cb3322282135cf82c52c/68000/68597/68597.mp4
+#EXTINF:0,Pornoid 123
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/1009a18b74df5e4584bca8706e2965cd/65000/65225/65225.mp4
+#EXTINF:0,Pornoid 124
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0fff690bc1500f4de07fcf6de390e0c4/36000/36944/36944.mp4
+#EXTINF:0,Pornoid 125
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0fe73b26a6a71bb904514748db17cd28/79000/79973/79973.mp4
+#EXTINF:0,Pornoid 126
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0fe2329a357f942c8bf8596c9191c160/44000/44362/44362.mp4
+#EXTINF:0,Pornoid 127
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0fd5671d73efb755d56edecdae881b75/74000/74095/74095.mp4
+#EXTINF:0,Pornoid 128
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0fd36b2e7fa2b65af0e8f5f6f65c2adb/18000/18738/18738.mp4
+#EXTINF:0,Pornoid 129
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0fca7756ce99299260c34ee2f095e4ca/15000/15101/15101.mp4
+#EXTINF:0,Pornoid 13
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/008c764f459f55b0e54903d43de7cf04/78000/78752/78752.mp4
+#EXTINF:0,Pornoid 130
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0fc3fa67256b237fe6621bcf6787eaab/16000/16104/16104.mp4
+#EXTINF:0,Pornoid 131
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0fc0e2918343829f25fb38027b62816a/57000/57282/57282.mp4
+#EXTINF:0,Pornoid 132
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0fabbe4ae4cf7304345b5761bbc91648/24000/24174/24174.mp4
+#EXTINF:0,Pornoid 133
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0fa6478bf01d7717709da206be9cfadb/17000/17291/17291.mp4
+#EXTINF:0,Pornoid 134
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0f9b807518d1e85779341833786c1506/15000/15522/15522.mp4
+#EXTINF:0,Pornoid 135
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0f89d483b81c8455e951fea4267e84d0/8000/8052/8052.mp4
+#EXTINF:0,Pornoid 136
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0f83f2fcef34077af3db585bfbf5997c/83000/83748/83748.mp4
+#EXTINF:0,Pornoid 137
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0f58579317badfb120cec4d37f1fc0a8/55000/55257/55257.mp4
+#EXTINF:0,Pornoid 138
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0f547061125d6aeb92fdaa70ed8a5797/19000/19716/19716.mp4
+#EXTINF:0,Pornoid 139
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0f397bcc06c3c58c473546331b76e29f/74000/74847/74847.mp4
+#EXTINF:0,Pornoid 14
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/009cddacdf0df4993aee324ff31156b5/31000/31907/31907.mp4
+#EXTINF:0,Pornoid 140
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0f32120bf88f7e3d32d0ab844b5c5a9b/34000/34680/34680.mp4
+#EXTINF:0,Pornoid 141
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0f2fdd8bb7fd52f5278eec792d75fcd3/8000/8241/8241.mp4
+#EXTINF:0,Pornoid 142
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0f24ab700072721b154b392c9b127c04/30000/30013/30013.mp4
+#EXTINF:0,Pornoid 143
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0f1b128147b43e67346fe94bea2c7a9e/82000/82919/82919.mp4
+#EXTINF:0,Pornoid 144
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0f149fce346560f52a82cb7c22f8c99e/58000/58975/58975.mp4
+#EXTINF:0,Pornoid 145
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0f111d992b7fc672e8918a778e92195e/34000/34114/34114.mp4
+#EXTINF:0,Pornoid 146
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0ee42f25a160b9d611c6e39962c36a53/72000/72318/72318.mp4
+#EXTINF:0,Pornoid 147
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0eda626514d8417fafa9729c4a4f0d5c/71000/71749/71749.mp4
+#EXTINF:0,Pornoid 148
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0ecc36a8ce82ed3c8e68a67d8cff5ebb/79000/79540/79540.mp4
+#EXTINF:0,Pornoid 149
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0ebabab5c8603e7a1ed301b40ac87bda/41000/41492/41492.mp4
+#EXTINF:0,Pornoid 15
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/009dacc1de420c701aaabc39e75a008d/16000/16553/16553.mp4
+#EXTINF:0,Pornoid 150
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0eaa64e0ffc8dfaffcc0380f3cbcc735/75000/75620/75620.mp4
+#EXTINF:0,Pornoid 151
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0e785de21cc0a9331cb8a9e2d038adb4/21000/21252/21252.mp4
+#EXTINF:0,Pornoid 152
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/05daeb60385fd2594daa79aab576c67f/63000/63060/63060.mp4
+#EXTINF:0,Pornoid 153
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/05ec159d416ff5d9e102bb98f00556b8/65000/65725/65725.mp4
+#EXTINF:0,Pornoid 154
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/05f0263a72ed5c1743500ccf5bbefcdb/15000/15052/15052.mp4
+#EXTINF:0,Pornoid 155
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/05f1debbfcc6b95f767e9ac554e4747b/79000/79169/79169.mp4
+#EXTINF:0,Pornoid 156
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/060345ce6dee13c86c3ffc293ccabb4e/73000/73106/73106.mp4
+#EXTINF:0,Pornoid 157
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0625603a9b9281ff601a8f263da33eac/64000/64936/64936.mp4
+#EXTINF:0,Pornoid 158
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/063f58bad6e1d09b42c503a63daf7e7d/2000/2936/2936.mp4
+#EXTINF:0,Pornoid 159
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/06418c18a171dc96fdd2f47825b51778/0/108/108.mp4
+#EXTINF:0,Pornoid 16
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/009eafa844f1737b4ea364eae230d8e0/24000/24897/24897.mp4
+#EXTINF:0,Pornoid 160
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0643e32ce25edb8fd329bd2f39598865/73000/73341/73341.mp4
+#EXTINF:0,Pornoid 161
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0e75b8778710f84388378a6f15bcd3b6/74000/74635/74635.mp4
+#EXTINF:0,Pornoid 162
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0e4587265d57558bbede62756fd16b6e/67000/67661/67661.mp4
+#EXTINF:0,Pornoid 163
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0e456b3eee9336e0afd9b7d461950aad/74000/74098/74098.mp4
+#EXTINF:0,Pornoid 164
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0e2b82cbd5c27bc758a62ce454738a17/54000/54092/54092.mp4
+#EXTINF:0,Pornoid 165
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0e22e49ed8fa3b2cf53f12938f2234d2/49000/49724/49724.mp4
+#EXTINF:0,Pornoid 166
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0e1fbce57c38a005046e1d1654b2cbb8/54000/54675/54675.mp4
+#EXTINF:0,Pornoid 167
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0e1b8f89ec64a7415d886fb75b2bea91/45000/45308/45308.mp4
+#EXTINF:0,Pornoid 168
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0e1900617ac4b34c8ea6b8aad7a373ca/74000/74334/74334.mp4
+#EXTINF:0,Pornoid 169
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0e102088b97a07f41de935ad55ecdb39/2000/2220/2220.mp4
+#EXTINF:0,Pornoid 17
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/00a049a4cf1a82f62c1346dd0e56bf87/81000/81995/81995.mp4
+#EXTINF:0,Pornoid 170
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0e0b6f94692225c33db87f93cbc10733/68000/68032/68032.mp4
+#EXTINF:0,Pornoid 171
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0e033a672f2d763137e2464edf91e0f8/42000/42596/42596.mp4
+#EXTINF:0,Pornoid 172
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0dafc416fd6377d2991d0826bae1c284/70000/70793/70793.mp4
+#EXTINF:0,Pornoid 173
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0d7c464f27356c76ea1010e4a60b50ce/73000/73235/73235.mp4
+#EXTINF:0,Pornoid 174
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0d7c3ed052a53734445f2630a53d92ac/8000/8973/8973.mp4
+#EXTINF:0,Pornoid 175
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0d76d0f8a4c755e7fb5a335f9a714747/74000/74678/74678.mp4
+#EXTINF:0,Pornoid 176
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0d75ffbf07975c577d5b62607ba25bf1/83000/83871/83871.mp4
+#EXTINF:0,Pornoid 177
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0d68b78076c4370de6a027caa6d6ab4d/81000/81599/81599.mp4
+#EXTINF:0,Pornoid 178
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0619a83b97d2b3677f58ba13fa9ac459/16000/16871/16871.mp4
+#EXTINF:0,Pornoid 179
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0d598865b737ae82b509a67456e7db4e/29000/29792/29792.mp4
+#EXTINF:0,Pornoid 18
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/00ae1d2156f7c1dcb6c3b6adbc72e25d/0/641/641.mp4
+#EXTINF:0,Pornoid 180
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0d52e15fc86a9df1133343888b84b6d4/45000/45270/45270.mp4
+#EXTINF:0,Pornoid 181
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0d5172bc1106fde0dc7ac244cb8473a4/23000/23866/23866.mp4
+#EXTINF:0,Pornoid 182
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0d4ed64dcc7621c6bdd4e9722907277f/67000/67208/67208.mp4
+#EXTINF:0,Pornoid 183
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0d4d8c70686c36fe87bfcd498153b9e3/13000/13567/13567.mp4
+#EXTINF:0,Pornoid 184
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0d48e31013f4f99da2b884bc115cac1c/42000/42018/42018.mp4
+#EXTINF:0,Pornoid 185
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0d4718c0d8509dfc02c194e9ce9f784e/10000/10561/10561.mp4
+#EXTINF:0,Pornoid 186
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0d322aebbfdd0f76d2b202578066012f/59000/59477/59477.mp4
+#EXTINF:0,Pornoid 187
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/066117835f39f24ae43063fd7b536cff/22000/22375/22375.mp4
+#EXTINF:0,Pornoid 188
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/066804cf6ed2c41189a0e3bf54f225b2/83000/83198/83198.mp4
+#EXTINF:0,Pornoid 189
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/066afc59c1904f95486dd67a34c812cb/67000/67593/67593.mp4
+#EXTINF:0,Pornoid 19
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/00bc78c96af449b39b8c5f15cbc1eee4/80000/80924/80924.mp4
+#EXTINF:0,Pornoid 190
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/066b3ffdcf0b8f41d77fc0ce8982a224/2000/2671/2671.mp4
+#EXTINF:0,Pornoid 191
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/066ba7c3b29dbf359a77e0d89640f249/23000/23942/23942.mp4
+#EXTINF:0,Pornoid 192
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/068775f2be80b2100963f2ab35f735e4/28000/28657/28657.mp4
+#EXTINF:0,Pornoid 193
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0695805723812bbf0117883cbe7ab247/40000/40582/40582.mp4
+#EXTINF:0,Pornoid 194
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0695d77365fb1ada7c9186c0df47d7fb/1000/1192/1192.mp4
+#EXTINF:0,Pornoid 195
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/06a172a290e9e6a8baa257d63008b65d/27000/27756/27756.mp4
+#EXTINF:0,Pornoid 196
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/06c7622655ed7595bc92ddf831adcd2a/0/38/38.mp4
+#EXTINF:0,Pornoid 197
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/06da8fdb596ec568fe0ea3e723b2e04a/62000/62061/62061.mp4
+#EXTINF:0,Pornoid 198
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/06e3445d5b8ad391c8eab084fc60c16c/15000/15530/15530.mp4
+#EXTINF:0,Pornoid 199
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/06e54721b635e604a4bb73867baf35e6/52000/52189/52189.mp4
+#EXTINF:0,Pornoid 2
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/001cfc87dabc9b1a8b6238386dfd9a71/41000/41015/41015.mp4
+#EXTINF:0,Pornoid 20
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/00c59c188275c2ed1df8c97539fb6855/29000/29952/29952.mp4
+#EXTINF:0,Pornoid 200
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/06fc84119207b67688bee17c0289ab4a/64000/64409/64409.mp4
+#EXTINF:0,Pornoid 201
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0704ea06f8cdb392a2b2be44b5001126/42000/42252/42252.mp4
+#EXTINF:0,Pornoid 202
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/07082eb1571b8ad9117aa17ac0e3686f/45000/45609/45609.mp4
+#EXTINF:0,Pornoid 203
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0719e721c3781b58f641627b6362266c/35000/35484/35484.mp4
+#EXTINF:0,Pornoid 204
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/071cf8b9dd59fcc2b25bd6d6e15853d8/71000/71078/71078.mp4
+#EXTINF:0,Pornoid 205
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/072e4444338b3c3fd6865c08aafdf6eb/37000/37311/37311.mp4
+#EXTINF:0,Pornoid 206
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0731361230b66628e404878ab2f45e0b/80000/80506/80506.mp4
+#EXTINF:0,Pornoid 207
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/074e47092fbfed40d59760c379189c4d/64000/64811/64811.mp4
+#EXTINF:0,Pornoid 208
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/075c34ea82a0220f48bdc4df6512a0ef/27000/27289/27289.mp4
+#EXTINF:0,Pornoid 209
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0773bfe8086e30036e5150962c8cbe7a/4000/4055/4055.mp4
+#EXTINF:0,Pornoid 21
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/00cfbfae1d08f6436a49e8843e334ae5/63000/63357/63357.mp4
+#EXTINF:0,Pornoid 210
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0777254b40d9aeabc9f0b5730527492b/66000/66382/66382.mp4
+#EXTINF:0,Pornoid 211
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/077dfdd2cec1ebf97d87f433886e7ea6/5000/5785/5785.mp4
+#EXTINF:0,Pornoid 212
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/078c323fa74ab19eda9f4693c4854e28/72000/72452/72452.mp4
+#EXTINF:0,Pornoid 213
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/07930f94a4f85d873f21ece74aaae55e/59000/59346/59346.mp4
+#EXTINF:0,Pornoid 214
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/07b38cb6d39e2957df529f73356b0d0d/44000/44505/44505.mp4
+#EXTINF:0,Pornoid 215
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/07c177db2f9a3bec289d8e41061a7a56/25000/25183/25183.mp4
+#EXTINF:0,Pornoid 216
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/07db77da3ad82efbd23d3b54abbe7728/10000/10582/10582.mp4
+#EXTINF:0,Pornoid 217
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/08012e07201b5f29440bc72c6f6bc8b4/13000/13876/13876.mp4
+#EXTINF:0,Pornoid 218
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0807fc57397c4611a4c3348ee6a1dbfc/72000/72966/72966.mp4
+#EXTINF:0,Pornoid 219
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/080b57f12f65e2bef1fa7242771a632b/28000/28999/28999.mp4
+#EXTINF:0,Pornoid 22
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/00cff13bf11de965610542086035855a/77000/77587/77587.mp4
+#EXTINF:0,Pornoid 220
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/08126d34be8edca772ab04bf267faeff/82000/82783/82783.mp4
+#EXTINF:0,Pornoid 221
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0821146056caa8d2a5e5e8683b62fc50/73000/73448/73448.mp4
+#EXTINF:0,Pornoid 222
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0822deca1d077a0666e169b8dfc02c45/65000/65943/65943.mp4
+#EXTINF:0,Pornoid 223
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/08234592c1b62f264bc712ab71e947ba/12000/12828/12828.mp4
+#EXTINF:0,Pornoid 224
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/08280fa4d1e0a18c8c37d7160e56c7a2/75000/75643/75643.mp4
+#EXTINF:0,Pornoid 225
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/082d8189c083c250dffba0b8c4b02262/22000/22880/22880.mp4
+#EXTINF:0,Pornoid 226
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/082e3e6788856fd9a3a223da1c5d5e2f/74000/74483/74483.mp4
+#EXTINF:0,Pornoid 227
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/08317169a0e84bb8d2fbec58e6ae7e50/13000/13478/13478.mp4
+#EXTINF:0,Pornoid 228
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/084092471113ed067c0f026f059081a7/77000/77733/77733.mp4
+#EXTINF:0,Pornoid 229
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/084461d9b59326cb3b1565a4cab89625/64000/64831/64831.mp4
+#EXTINF:0,Pornoid 23
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/00d47eb6df4b82f68ef81c19cef79306/65000/65952/65952.mp4
+#EXTINF:0,Pornoid 230
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0844a2e49359fe80f6023ca42c4624eb/41000/41004/41004.mp4
+#EXTINF:0,Pornoid 231
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0d1feb09496b813be21acb03cb887b1f/58000/58462/58462.mp4
+#EXTINF:0,Pornoid 232
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0d1def99e5699f4057dfcc0c20f9d397/82000/82855/82855.mp4
+#EXTINF:0,Pornoid 233
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0d14a6aeac4841814f9117b50e532a13/73000/73977/73977.mp4
+#EXTINF:0,Pornoid 234
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0d0f54a7e448bf8c602af81ec09eed60/38000/38754/38754.mp4
+#EXTINF:0,Pornoid 235
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0d0e262121cbffb613929e8c59c815ad/78000/78763/78763.mp4
+#EXTINF:0,Pornoid 236
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0d0ba13a0782f0a68eba99626b1740f2/78000/78210/78210.mp4
+#EXTINF:0,Pornoid 237
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0cf45b0a86ff7c8bd61e20b1d607d1ee/39000/39077/39077.mp4
+#EXTINF:0,Pornoid 238
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0cf10348fe2f4c61a73bd2553632b9d6/8000/8816/8816.mp4
+#EXTINF:0,Pornoid 239
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0cf09ab74fd6ecdf9ff85c6b85082a8e/75000/75337/75337.mp4
+#EXTINF:0,Pornoid 24
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/00edbfa1bbb2c11db77b3b525d56d816/5000/5004/5004.mp4
+#EXTINF:0,Pornoid 240
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0cebf4dbb2ae797678b4a3cf4b4bafff/74000/74398/74398.mp4
+#EXTINF:0,Pornoid 241
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0cea34c154ad425fbb168cac84d32302/65000/65033/65033.mp4
+#EXTINF:0,Pornoid 242
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0ce9c64a4c23d55b842bd85c92d164a5/24000/24995/24995.mp4
+#EXTINF:0,Pornoid 243
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0cd82075faee8080b7ca494ee66c518c/2000/2035/2035.mp4
+#EXTINF:0,Pornoid 244
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0cca4b6a37dde7ce7bc147ebb0404268/2000/2956/2956.mp4
+#EXTINF:0,Pornoid 245
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0cca10338d51f35f2c7cb152c7c3b3ba/8000/8984/8984.mp4
+#EXTINF:0,Pornoid 246
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0cc2264f76530408116b0a1ed0495d44/47000/47582/47582.mp4
+#EXTINF:0,Pornoid 247
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0cba2330c9c317d25e0f0194c6637ba2/31000/31214/31214.mp4
+#EXTINF:0,Pornoid 248
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0cadc9ff4d46b02fdf3f4b8d1e095cdc/59000/59352/59352.mp4
+#EXTINF:0,Pornoid 249
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0c98260f578d33e18d98436e34cd715f/10000/10159/10159.mp4
+#EXTINF:0,Pornoid 25
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/00fae4d411dfb9c382d4690693457c59/26000/26498/26498.mp4
+#EXTINF:0,Pornoid 250
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0c94f0dfa292fdc6b109bb2a8d81538f/50000/50777/50777.mp4
+#EXTINF:0,Pornoid 251
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0849a963166456756e50a2f04a7c475a/81000/81651/81651.mp4
+#EXTINF:0,Pornoid 252
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0861e89050ec419d8827f8cd1a2a9fdd/72000/72439/72439.mp4
+#EXTINF:0,Pornoid 253
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/086944a487b01a1d58bd2524c70d55d9/74000/74070/74070.mp4
+#EXTINF:0,Pornoid 254
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/08806f629e40d4e1970dfaaaf75c03d3/61000/61360/61360.mp4
+#EXTINF:0,Pornoid 255
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0880ae5ea623c525551521a6cb4b6df5/65000/65907/65907.mp4
+#EXTINF:0,Pornoid 256
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/089d85ee4001efc368843d6b44d71de0/71000/71608/71608.mp4
+#EXTINF:0,Pornoid 257
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/08bf2d895a108a83831369dc5671ea90/58000/58129/58129.mp4
+#EXTINF:0,Pornoid 258
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/08cc195e1cf880b5b46baa7c2bc35565/84000/84338/84338.mp4
+#EXTINF:0,Pornoid 259
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/08dfd01a210cff9d10104d6b8d059fe7/17000/17023/17023.mp4
+#EXTINF:0,Pornoid 26
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0100a7093376e372e9f320b5313fb05a/71000/71123/71123.mp4
+#EXTINF:0,Pornoid 260
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/08f03b8e28e4849f967741bf401e99b2/81000/81470/81470.mp4
+#EXTINF:0,Pornoid 261
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0c7e801e81214d48466ee1e6a071814c/16000/16056/16056.mp4
+#EXTINF:0,Pornoid 262
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0c7412d58bd89defe4c7729f42c31f0d/27000/27593/27593.mp4
+#EXTINF:0,Pornoid 263
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0c64e6661d91c4914b3cb4564437f67f/62000/62933/62933.mp4
+#EXTINF:0,Pornoid 264
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0c4f1ffb1bdd1e32b0630774161367c3/60000/60627/60627.mp4
+#EXTINF:0,Pornoid 265
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0c252572048eb3d52a105c508212d2f9/23000/23089/23089.mp4
+#EXTINF:0,Pornoid 266
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0c1fae5862d41387ae29ca76b59b5cf2/78000/78312/78312.mp4
+#EXTINF:0,Pornoid 267
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0c19378b89c0572a68dcde351f086db5/66000/66079/66079.mp4
+#EXTINF:0,Pornoid 268
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0bfc5051b6e874c25f794e7f45d3c40d/48000/48973/48973.mp4
+#EXTINF:0,Pornoid 269
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0bfbeb00a06f82f62ebcafb9f5b5f795/79000/79064/79064.mp4
+#EXTINF:0,Pornoid 27
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/010b118d8071dc87f90946cf66e50db5/57000/57567/57567.mp4
+#EXTINF:0,Pornoid 270
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0bcc3b6279362ec1a63482f25e985df6/64000/64673/64673.mp4
+#EXTINF:0,Pornoid 271
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0bc049d6e4d42c3590067d971bdbeb10/18000/18281/18281.mp4
+#EXTINF:0,Pornoid 272
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0bbd20415d4ef5fdab804aff72cb087a/30000/30670/30670.mp4
+#EXTINF:0,Pornoid 273
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0bb5958b70ad982868f9f3b1c6c9b6b1/68000/68879/68879.mp4
+#EXTINF:0,Pornoid 274
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0bac1f18e76840f3c5bfdeb1a9392aaf/33000/33063/33063.mp4
+#EXTINF:0,Pornoid 275
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0babafb0874b0acce04e5fb96eee48a0/57000/57604/57604.mp4
+#EXTINF:0,Pornoid 276
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0b9ddb39302e55bb6facb84d3b01b1e4/53000/53875/53875.mp4
+#EXTINF:0,Pornoid 277
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0b9b2ce173ba4e2a32f3427d9f44b21e/42000/42623/42623.mp4
+#EXTINF:0,Pornoid 278
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0b99323b5afc31af290b666fc57e19fd/13000/13057/13057.mp4
+#EXTINF:0,Pornoid 279
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0b9717014ffc4a4d21fe21a6674e524c/78000/78805/78805.mp4
+#EXTINF:0,Pornoid 28
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/015dc2205ea14608b26719a65722e373/77000/77841/77841.mp4
+#EXTINF:0,Pornoid 280
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0b959f3dd6a8602a28bf22b2615fae9d/50000/50544/50544.mp4
+#EXTINF:0,Pornoid 281
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0b8b231e55bbc7d796ab162d92531e9e/75000/75027/75027.mp4
+#EXTINF:0,Pornoid 282
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0b89630d8dff8ded543cbcb8f8b7ee2b/35000/35963/35963.mp4
+#EXTINF:0,Pornoid 283
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/08ff7da1bebd91fa7a7f936062918281/55000/55520/55520.mp4
+#EXTINF:0,Pornoid 284
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/091136f979a6651e886121dcb2b2ce9c/74000/74250/74250.mp4
+#EXTINF:0,Pornoid 285
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0912942c9b0c63b691c3b66ab9902dd7/32000/32138/32138.mp4
+#EXTINF:0,Pornoid 286
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0916599bb591691bd6aab81278ea0f2f/69000/69711/69711.mp4
+#EXTINF:0,Pornoid 287
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0917f5736449e22f97af0c78d9ef3795/2000/2569/2569.mp4
+#EXTINF:0,Pornoid 288
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/091a90b1611494e26e4db03bde2f69de/68000/68892/68892.mp4
+#EXTINF:0,Pornoid 289
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/091bf3d57aac9ce316d735edeb74cd5c/69000/69126/69126.mp4
+#EXTINF:0,Pornoid 29
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/015f0f30aa9962be6afadb80e8567ae4/3000/3202/3202.mp4
+#EXTINF:0,Pornoid 290
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/09231b025e8b4e8d52a8b90d0195d46a/50000/50747/50747.mp4
+#EXTINF:0,Pornoid 291
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0924992a0e185253790cfa5245ed4944/82000/82357/82357.mp4
+#EXTINF:0,Pornoid 292
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/093f69f9b12245a83e29064f5b991acb/36000/36855/36855.mp4
+#EXTINF:0,Pornoid 293
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/09416e631c0c3feb161175fe2b7834e3/41000/41229/41229.mp4
+#EXTINF:0,Pornoid 294
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0942eec12d684dfa56f1eb21ebced503/32000/32845/32845.mp4
+#EXTINF:0,Pornoid 295
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/094266a0f2f2164c83b72df5afadbe7e/37000/37394/37394.mp4
+#EXTINF:0,Pornoid 296
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/094af11d42e2c89d7fb776147e19861a/66000/66807/66807.mp4
+#EXTINF:0,Pornoid 297
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0953757692cf10f628e48399a07cd4dd/37000/37078/37078.mp4
+#EXTINF:0,Pornoid 298
+#EXTVLCOPT:network-caching=1000
+http://www.pornoid.com/get_file/1/0960c3c441da104a6c28ffa855c05f82/34000/34453/34453.mp4
+#EXTINF:194,XXXVOD3D-+18 3D
+#EXTVLCOPT:network-caching=1000
+http://galleries.3Dcatchyfetish.com/tube/027/trailer.f4v
+#EXTINF:0,XXXVOD3D-1+18 3D
+#EXTVLCOPT:network-caching=1000
+http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
+#EXTINF:0,XXXVOD3D-10+18 3D
+#EXTVLCOPT:network-caching=1000
+http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
+#EXTINF:300, 88
+#EXTVLCOPT:network-caching=1000
+http://porneq.com/media/porn5/videos/465/Amanda-Black-20-10-2015-Mylove-360p-2Df89PnA8q2.mp4
+#EXTINF:179,BRAZZERS
+#EXTVLCOPT:network-caching=1000
+http://static.brazzers.com/scenes/3342/180sec.flv
+#EXTINF:188,XXXVOD3D-31+18 3D
+#EXTVLCOPT:network-caching=1000
+http://galleries.3Dcatchyfetish.com/tube/032/trailer.f4v
+#EXTINF:484,Rissa
+#EXTVLCOPT:network-caching=1000
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_rissa_maxxx_8minutes.mp4
+#EXTINF:305,Rubia amateur
+#EXTVLCOPT:network-caching=1000
+http://cdn.servitubes.com/videos/0/2/9/3/c/0293cf9012c23e92d7d68e7d599824008e498f04.mp4
+#EXTINF:224,STREAM 8
+#EXTVLCOPT:network-caching=1000
+http://stream2.fastcdn.me/flv/422.mp4
+#EXTINF:482,Sara Luvv
+#EXTVLCOPT:network-caching=1000
+http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_sara_luvv_8minutes.mp4
+#EXTINF:721,Sasha
+#EXTVLCOPT:network-caching=1000
+http://tube.paperstreetcash.com/12mins/rubateen/rubateen_sasha_12minute.mp4
+#EXTINF:804,Sex fetish
+#EXTVLCOPT:network-caching=1000
+http://cdn.servitubes.com/videos/6/1/7/d/b/617db9bf132a0fcfda158f7ff141c747e38c7582.mp4
+#EXTINF:1065,Squirt de teen
+#EXTVLCOPT:network-caching=1000
+http://cdn.servitubes.com/videos/e/e/6/1/f/ee61f46e421e18382ff152b4cdc74c413236429a.mp4
+#EXTINF:300,Video 1
+#EXTVLCOPT:network-caching=1000
+http://galleries.payserve.com/1/43131/55380/5mins_sv.flv
+#EXTINF:366,Video 10
+#EXTVLCOPT:network-caching=1000
+http://content2.sexforsure.com/2013/07/02/3/Video.mp4
+#EXTINF:365,Video 18
+#EXTVLCOPT:network-caching=1000
+http://content2.sexforsure.com/2013/07/02/7/Video.mp4
+#EXTINF:364,Video 19
+#EXTVLCOPT:network-caching=1000
+http://content2.sexforsure.com/2013/07/03/2/Video.mp4
+#EXTINF:363,Video 20
+#EXTVLCOPT:network-caching=1000
+http://content2.sexforsure.com/2013/07/02/12/Video.mp4
+#EXTINF:366,Video 21
+#EXTVLCOPT:network-caching=1000
+http://content2.sexforsure.com/2013/07/03/1/Video.mp4
+#EXTINF:365,Video 22
+#EXTVLCOPT:network-caching=1000
+http://content2.sexforsure.com/2013/07/02/18/Video.mp4
+#EXTINF:364,Video 23
+#EXTVLCOPT:network-caching=1000
+http://content2.sexforsure.com/2013/07/03/4/Video.mp4
+#EXTINF:365,Video 24
+#EXTVLCOPT:network-caching=1000
+http://content2.sexforsure.com/2013/07/02/8/Video.mp4
+#EXTINF:366,Video 25
+#EXTVLCOPT:network-caching=1000
+http://content2.sexforsure.com/2013/07/02/16/Video.mp4
+#EXTINF:364,Video 26
+#EXTVLCOPT:network-caching=1000
+http://content2.sexforsure.com/2013/07/03/7/Video.mp4
+#EXTINF:377,Video 27
+#EXTVLCOPT:network-caching=1000
+http://content2.sexforsure.com/2013/07/03/11/Video.mp4
+#EXTINF:365,Video 28
+#EXTVLCOPT:network-caching=1000
+http://content2.sexforsure.com/2013/07/03/20/Video.mp4
+#EXTINF:364,Video 29
+#EXTVLCOPT:network-caching=1000
+http://content2.sexforsure.com/2013/07/03/19/Video.mp4
+#EXTINF:365,Video 30
+#EXTVLCOPT:network-caching=1000
+http://content2.sexforsure.com/2013/07/02/14/Video.mp4
+#EXTINF:363,Video 6
+#EXTVLCOPT:network-caching=1000
+http://content2.sexforsure.com/2013/07/02/12/Video.mp4
+#EXTINF:369,Video 7
+#EXTVLCOPT:network-caching=1000
+http://content2.sexforsure.com/2013/07/03/3/Video.mp4
+#EXTINF:365,Video 8
+#EXTVLCOPT:network-caching=1000
+http://content2.sexforsure.com/2013/07/02/18/Video.mp4
+#EXTINF:365,Video 9
+#EXTVLCOPT:network-caching=1000
+http://content2.sexforsure.com/2013/07/03/18/Video.mp4
